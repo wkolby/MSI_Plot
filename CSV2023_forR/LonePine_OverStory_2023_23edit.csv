@@ -1,0 +1,983 @@
+﻿Project ,Date,Year,Plot,Observers,Plot_area,Units_dist,Units_dbh,Area,Tree_id,Species,Azimuth,Distance,DBH,BA,Height,CBH,CR,Decay_Class,Char_Height,Scorch_Height,Beetle,Cone,Shrub,Notes,Entry_date,Entered_by
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,914,PIPO,109,16.7,17.1,,76.3,12.7,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P2,PIPO,110,16,18.4,,78,12.2,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P4,PIPO,115,16.5,7,,35,12,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P5,PIPO,122,15.5,19.5,,74,26,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P3,PIPO,114,29,12.7,,50.4,11.5,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P6,PIPO,117,26,9.3,,46,12.4,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q1,QUGA,194,32,4.4,,20,16.3,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q2,QUGA,195,23,4.1,,16.7,5.4,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q3,QUGA,199,25,4.2,,19.7,5.7,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q4,QUGA,201,201,36.5,,4.3,15.8,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P7,PIPO,222,29,20.8,,40.7,18.9,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P8,PIPO,224,20,7.9,,27.6,7.2,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P9,PIPO,231,21.5,16.9,,71.4,37.4,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P10,PIPO,232,23.5,4.3,,24,5.5,,L,na,na,G,M,1,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,P11,PIPO,248,20.5,15.6,,65,17.6,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q5,QUGA,312,17,5.6,,10.9,3.5,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q6,QUGA,315,29,4.8,,11.1,3.5,,L,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q7,QUGA,328,17,4.7,,4.9,na,,D,na,na,G,M,0,,20230621,HN
+Lone Pine ,20230615,2023,97,BA; NS; EM,0.1,ft,in,CT,Q8,QUGA,332,33.5,4.8,,7.9,na,,D,na,na,G,M,0,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,998,PIPO,72,20.5,16.4,,69.9,19.6,,L,na ,na,G,M,0,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,P2,PIPO,88,18.5,21,,66,8.5,,L,na,na,G,M,1,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,P3,PIPO,142,32.5,111,,60.7,27.6,,L,na,na,G,M,1,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,P4,PIPO,168,36,21.4,,66.3,18.9,,L,na,na,G,M,1,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,P5,PIPO,327,23.5,12.7,,39,4.3,,L,na,na,G,M,1,,20230621,HN
+Lone Pine,20230615,2023,95,CM;CC;EM,0.1,ft,in,CT,P6,PIPO,335,285,14.5,,42.7,9.8,,L,na,na,G,M,1,,20230621,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,861,PIPO,40,19,17,,49.9,15.4,,L,na,na,G,D,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,P2,PIPO,118.5,29,15.9,,56.6,8.5,,L,na,na,G,D,1,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,P3,PIPO,123,26.5,15.9,,56.6,8.5,,L,na,na,G,D,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,P4,PIPO,145.3,22.5,18.1,,62.6,15.1,,L,na,na,G,D,1,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,P5,PIPO,118.4,27.5,12.4,,50.9,17.2,,L,na,na,G,D,1,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q1,PIPO,248.6,6.5,4.2,,9.4,4.6,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q2,QUGA,255.5,9,4,,12.4,3.8,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q3,QUGA,287,17.5,4.4,,16.6,4.9,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q4,QUGA,303.3,18.5,4.1,,13,6.6,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q5,QUGA,319.2,9,4.1,,17,5.9,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230622,2023,155,JL;NS;BA,0.1,ft,in,CT,Q6,QUGA,340.4,11.5,4,,10.6,1,,L,na,na,G,N,0,,20230622,HN
+Lone Pine,20230614,2023,158,JL;NS;BA,0.1,ft,in,CT,862,PIPO,17,29,18,,66.8,20,,L,na ,na,G,D,1,,20230705,NS
+Lone Pine,20230614,2023,158,JL;NS;BA,0.1,ft,in,CT,P2,PIPO,21,28,19.7,,74.2,10.9,,L,na ,na,G,D,1,,20230705,NS
+Lone Pine,20230614,2023,158,JL;NS;BA,0.1,ft,in,CT,Q1,QUGA,37,28,4.2,,11.2,6.4,,L,na ,na,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,158,JL;NS;BA,0.1,ft,in,CT,P3,PIPO,299,11.5,24.7,,63.8,7,,L,na ,na,G,D,1,,20230705,NS
+Lone Pine,20230614,2023,158,JL;NS;BA,0.1,ft,in,CT,P4,PIPO,337,33,18,,64.4,11,,L,na ,na,G,D,1,,20230705,NS
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,872,QUGA,0,26.5,4.8,,10.8,2,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q2,QUGA,0,21,6.5,,25.2,4.5,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q3,QUGA,4,16,6.2,,23.1,8.2,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q4,QUGA,4,26,5.7,,20.6,5.7,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q5,QUGA,5,17,4.9,,13.8,6,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q6,QUGA,7.5,20,4.2,,6.6,open,,D3,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,P1,PIPO,60,20.5,20.9,,76.9,16.3,,L,na ,na,G,N,0,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,P2,PIPO,77,29,14.5,,57.6,11.6,,L,na ,na,G,N,0,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,P3,PIPO,80,22,18.5,,76.3,26,,L,na ,na,G,N,0,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,P4,PIPO,98,28,26.7,,68.7,11.8,,L,na ,na,G,N,0,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q7,QUGA,163,23.5,4.9,,15.6,3.6,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q8,QUGA,179,12.5,4,,10.7,6,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q9,QUGA,190,21,5,,12.5,6,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,P5,PIPO,254,24,24.8,,77.4,15.9,,L,na ,na,G,N,0,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q10,QUGA,343,28,4.7,,23.6,5,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q11,QUGA,346,35,6.8,,22.6,7,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine ,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q12,QUGA,348,28.5,5.4,,21.5,6.9,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine ,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q13,QUGA,353,30,6.2,,25.1,4.5,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine ,20230621,2023,133,BA; CM; NS,0.1,ft,in,Oak Reduction,Q14,QUGA,353.5,26,5.5,,28.5,10,,L,na ,na,G,N,1,,20230705,EM
+Lone Pine ,20230622,2023,135,EM;CC;NS,0.1,ft,in,Oak Reduction,919,PIPO,52,21.5,21.8,,59,15.8,,L,na ,na,G,D,1,,20230622,HN
+Lone Pine ,20230622,2023,135,EM;CC;NS,0.1,ft,in,Oak Reduction,P2,PIPO,80,33,25.9,,67.4,11.7,,L,na ,na,G,D,1,,20230622,HN
+Lone Pine ,20230622,2023,135,EM;CC;NS,0.1,ft,in,Oak Reduction,P3,PIPO,175,24,20.6,,52,10.7,,L,na ,na,G,D,1,,20230622,HN
+Lone Pine ,20230622,2023,135,EM;CC;NS,0.1,ft,in,Oak Reduction,P4,PIPO,206,22,12.3,,50,12,,L,na ,na,G,D,1,,20230622,HN
+Lone Pine ,20230622,2023,135,EM;CC;NS,0.1,ft,in,Oak Reduction,P5,PIPO,308,35,19.5,,44.4,7.8,,L,na ,na,G,D,1,,20230622,HN
+Lone Pine ,20230614,2023,159,JL;NS;BA,0.1,ft,in,CT,863,PIPO,218,7.5,23.9,,58.4,OPEN,,M,na ,na,NF,N,0,,20230614,EM
+Lone Pine 20230705,20230614,2023,92,JL;NS;BA,0.1,ft,in,CT,864,PIPO,85.7,33,17.8,,56.5,19,,L,na ,na,G,D,0,,20230705,EM
+Lone Pine 20230706,20230614,2023,92,JL;NS;BA,0.1,ft,in,CT,P2,PIPO,184,11,16.7,,64.8,15.7,,L,na ,na,G,D,0,,20230705,EM
+Lone Pine 20230707,20230614,2023,92,JL;NS;BA,0.1,ft,in,CT,P3,PIPO,185,20.5,17.4,,64.8,27.3,,L,na ,na,G,D,0,,20230705,EM
+Lone Pine 20230708,20230614,2023,92,JL;NS;BA,0.1,ft,in,CT,P4,PIPO,309,22,14.9,,51.5,8.3,,L,na ,na,G,D,0,,20230705,EM
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,913,PIPO,26,28,20.3,,36,na,,D3,na ,na ,G,N,1,tall broken stump,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q1,QUGA,71,30,4.2,,5.5,3,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q2,QUGA,72,27,4.5,,5,3,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q3,QUGA,76,33,4.5,,10,3,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q4,QUGA,82,27,4.2,,11,2,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q5,QUGA,87,31,4.3,,10.2,3,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q6,QUGA,88,25.5,4.3,,7.5,3.5,,L,na ,na ,G,N,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,P2,PIPO,129,29,20.9,,56,15,,L,na ,na ,G,D,1,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,S1,PIPO,129,34,10.3,,na,na,,na,na ,na ,na,na,na,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,Q7,QUGA,153,32,4.4,,12.5,4.7,,L,na ,na ,G,N,0,,20230705,NS
+Lone Pine,20230614,2023,91,EM;CC;CM,0.1,ft,in,CT,P3,PIPO,218.3,21,18,,73.1,16.6,,L,na ,na ,G,D,1,,20230705,NS
+Lone Pine,20230613,2023,154,JL;NS;BA,0.1,ft,in,CT,860,PIPO,15,35,16.6,,61.9,14.7,,L,na ,na ,G,D,0,,20230705,NS
+Lone Pine,20230613,2023,154,JL;NS;BA,0.1,ft,in,CT,P2,PIPO,31.7,15,25.3,,76.5,29.7,,L,na ,na ,G,D,0,,20230705,NS
+Lone Pine,20230613,2023,154,JL;NS;BA,0.1,ft,in,CT,P3,PIPO,227.3,29,18.9,,57.2,20.2,,L,na,na ,G,D,1,,20230705,NS
+Lone Pine,20230613,2023,154,JL;NS;BA,0.1,ft,in,CT,P4,PIPO,288.5,21,23.6,,65.5,25.6,,L,na ,na ,G,D,1,,20230705,NS
+Lone Pine,20230613,2023,154,JL;NS;BA,0.1,ft,in,CT,P5,PIPO,330.1,33.5,23.7,,76.5,20.2,,L,na ,na ,G,D,0,,20230705,NS
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,S1,PIPO,13.5,11,17.8,,na,na,,na,na ,na ,na,na,na,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,S2,PIPO,79,32,12.1,,na,na,,na,na ,na ,na,na,na,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,S3,PIPO,102,27,13.7,,na,na,,na,na ,na ,na,na,na,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,S4,PIPO,178,21.5,10,,na,na,,na,na ,na ,na,na,na,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,912,PIPO,306,11,4.8,,15.4,3.3,,M,na ,na ,G,N,0,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,S5,PIPO,321,12.5,20.9,,na,na,,na,na ,na ,na,na,na,,20230705,EM
+Lone Pine,20230614,2023,160,"CM,CC",0.1,ft,in,CT,P2,PIPO,358,17,17,,61.2,12,,M,na ,na ,G,N,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,1000,QUGA,10.4,26.5,5.1,,9.3,1,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q2,QUGA,15.8,21,7.4,,27.3,5.2,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q3,QUGA,16.3,15.5,8.2,,33.7,6,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q4,QUGA,22.6,16,4.6,,25.2,5.3,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q5,QUGA,26,22,6.6,,17.6,6.2,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q6,QUGA,28.6,20,7.7,,36.7,6.1,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,Q7,QUGA,30.5,33,6.4,,17.1,3,,L,na ,na ,G,N,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P1,QUGA,59,21,4.6,,13.9,1.6,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P2,PIPO,67.5,28,4.7,,16.5,5,,L,na ,na ,G,M,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P3,PIPO,109.9,30,4.5,,17.2,6.4,,L,na ,na ,G,M,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P4,PIPO,118,25,6,,22.2,8.3,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P5,PIPO,123,33.5,5.8,,14.7,4,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P6,PIPO,151,32,7.3,,32.7,16,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P7,PIPO,158,18,7,,33.4,13.5,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P8,PIPO,159,25,10.9,,39.3,17,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P9,PIPO,161,8.5,5.4,,24.3,7.3,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P10,PIPO,178,33,6.3,,15.3,na,,D1,na ,na ,G,0,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P11,PIPO,185,16.5,8.2,,31.1,9.8,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P12,PIPO,191,33,5.6,,25.4,13.2,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P13,PIPO,197,26.5,12.7,,39.2,19.9,,L,na ,na ,G,M,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P14,PIPO,212,21.5,10.3,,39.6,12,,L,na ,na ,G,M,1,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P15,PIPO,217,10.5,8,,30.4,11.6,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P16,PIPO,272,34,8,,32.7,9.9,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P17,PIPO,273,19.5,7.8,,29.9,9.3,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P18,PIPO,230,16.5,7.9,,30,6,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P19,PIPO,285,27,10.1,,37.9,18.8,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P20,PIPO,293,28.5,8.9,,32.7,20,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P21,PIPO,301,23,5.7,,18.3,4.8,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P22,PIPO,307,32,7.4,,30.4,13.6,,L,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,8,"EM,CM,CC",0.1,ft,in,Plantation,P23,PIPO,351,11.5,17.1,,52.6,21.6,,L,na ,na ,G,M,1,,20230705,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,999,PIPO,11.7,23,9,,34,na,,D1,na ,na ,G,M,0,,20230705,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P2,PIPO,16.4,18,5.6,,28,na,,D1,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P3,PIPO,39,28.5,7.4,,30,6,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P4,PIPO,42,15.5,9.3,,29,na,,D1,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P5,PIPO,62,18,7.3,,23,na,,D2,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P6,PIPO,80,34,5.4,,23.9,4.5,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P7,PIPO,95,25,7.7,,25,4.4,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P8,PIPO,108,12.5,7.5,,28,na,,D1,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P9,PIPO,127,27.5,8.3,,27,7,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P10,PIPO,148.5,13,8.3,,29,na,,D1,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P11,PIPO,172.8,29,7.7,,26,3.5,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P12,PIPO,179.9,19,6.9,,25.9,12,,M,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P13,PIPO,201,25.5,4.5,,16,2,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P14,PIPO,209,16,5.3,,21,3,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P15,PIPO,215,19,4.4,,20,7.1,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P16,PIPO,233,35,22.1,,61,14.4,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P17,PIPO,280,22.5,9.4,,29,na,,D2,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P18,PIPO,293,35,10.1,,32,15.2,,M,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P19,PIPO,295,13,10.4,,36.9,na,,D2,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P20,PIPO,298,29,9.2,,32.2,31,,D2,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P21,PIPO,341,9,8.5,,37,34,,M,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P22,PIPO,348,19.5,9.3,,35.5,na,,D2,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,4,"EM,CM,CC",0.1,ft,in,Plantation,P23,PIPO,351,30,9.5,,32,33,,M,na ,na ,G,M,0,,20230707,EM
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,908,PIPO,28.2,14.5,5.8,,27,5,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P2,PIPO,35.7,14.5,5.5,,28.5,9.2,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,A1,POTR5,39.3,24,4.5,,22.1,6.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P3,PIPO,44.4,25,19.2,,66.3,20.2,,L,na ,na ,G,D,1,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P4,PIPO,56.7,13.5,6,,27.3,6,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P5,PIPO,76.6,20,7.1,,27.1,11.4,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P6,PIPO,83.3,36.5,10.4,,40.2,13.7,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P7,PIPO,87.3,27.5,8.9,,36.1,18.5,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P8,PIPO,112.4,28,9.9,,36.7,12.6,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P9,PIPO,115.3,11.5,8.6,,35.1,12.8,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P10,PIPO,137.3,26.5,8.1,,34.2,11.9,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P11,PIPO,154,28,7.3,,36.2,12.3,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P12,PIPO,169.6,21,6.4,,27.1,10.3,,L,na ,na ,G,M,0,Broken Top,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P13,PIPO,195,16,10.3,,45.1,9.1,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P14,PIPO,224.5,12.5,5.6,,14.9,1,,L,na ,na ,G,N,0,Broken Top,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P15,PIPO,234,22,10.1,,39.4,16.1,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P16,PIPO,244.1,4.5,10.7,,40.1,13.9,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P17,PIPO,272.8,18.5,9,,32.2,9,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P18,PIPO,276.9,21.5,10.1,,35.3,6.8,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,5,"EM,CM,CC",0.1,ft,in,Plantation,P19,PIPO,348.3,36.5,8.8,,36.3,7.7,,L,na ,na ,G,M,0,,20230707,CC
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,859,PIPO,14.6,32,5,,25.4,7.3,,L,na ,na ,G,D,0,labeled w orange paint,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P2,PIPO,20.9,35.5,7.2,,27.8,12.3,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P3,PIPO,35.1,31,8.3,,29.6,11.3,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P4,PIPO,40.2,26,8.2,,28.1,7.4,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P5,PIPO,44.4,35,5.1,,19.3,5.5,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P6,PIPO,49.6,31.5,5.5,,22.7,na,,D1,na ,na ,G,N,1,holes in bark no pitch tubes,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P7,PIPO,56.7,25.5,7.9,,29.8,na,,D1,na ,na ,G,N,1,holes in bark no pitch tubes,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P8,PIPO,68.3,18.5,4.4,,24.2,10,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P9,PIPO,70,11,9.4,,36.1,16.6,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P10,PIPO,87.5,21.5,7.5,,27.2,na,,D1,na ,na ,G,N,1,bark falling off,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P11,PIPO,123,28,5,,21.1,6.2,,L,na ,na ,GPT,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P12,PIPO,129,6.5,8.8,,32.8,na,,D1,na ,na ,D,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P13,PIPO,138,15,9.3,,38.9,na,,D1,na ,na ,G,N,1,holes in bark no pitch tubes,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P14,PIPO,140.5,26,9.6,,39.5,9.6,,L,na ,na ,GPT,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P15,PIPO,158.2,28,5.3,,21.3,8.8,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P16,PIPO,170.3,14.5,8.1,,35,12.4,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A1,POTR5,178,28,4.5,,24.7,19.5,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A2,POTR5,179,29,4,,23.8,17,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P17,PIPO,180,21.5,7.2,,28.4,6.9,,L,na ,na ,G,D,0,leaning,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A3,POTR5,188,19,4,,19.2,na,,D1,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A4,POTR5,192,26.5,4.5,,26.7,18,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A5,POTR5,193,20,5.7,,27,15,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A6,POTR5,193,28.5,4.7,,24,16,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A7,POTR5,201,20,4.1,,22,na,,D1,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A8,POTR5,204,19.9,4.6,,22,na,,D1,na ,na ,G,N,1,white speckled fungus,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P18,PIPO,205,27,4.8,,25,16,,L,na ,na ,GPT,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P19,PIPO,205,33,8.4,,31,11.5,,L,na ,na ,GPT,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A9,POTR5,209,16,4,,24.5,na,,D1,na ,na ,G,N,1,white speckled fungus,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A10,POTR5,210,18,4.6,,24.5,na,,D1,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A11,POTR5,212,18.5,4.6,,24,18,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A12,POTR5,213,34,4.6,,18.2,10,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P20,PIPO,217,27,6.4,,28,14,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A13,POTR5,226,32,4.4,,22,8,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P21,PIPO,234,23,5,,22.7,16.4,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P22,PIPO,237,24,6.5,,24.3,13.7,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P23,PIPO,239,21.5,5.9,,24,18,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A14,POTR5,241,14,6.1,,19,12,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,A15,POTR5,247,15.5,6.1,,21,10,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P24,PIPO,259,24,5,,12,3,,L,na ,na ,G,D,0,leaning,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P25,PIPO,259,31,6.7,,22.5,9,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P26,PIPO,273,16.5,4.8,,14,7.6,,L,na ,na ,GPT,N,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P27,PIPO,277,35.5,6.6,,26.4,11.4,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P28,PIPO,295,18.5,4.9,,20.3,8.2,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine ,20230613,2023,6,"JL,NS,BA",0.1,ft,in,Plantation,P29,PIPO,315,29,26.8,,80,16,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,911,PIPO,19,33,15.9,,43,21.7,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,P2,PIPO,151,14,26.2,,71.4,14.1,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,P3,PIPO,187,23,25.1,,72.8,14.7,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,P4,PIPO,301,23.5,19.6,,64.8,16.9,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,P5,PIPO,310,9,22.5,,61.7,23.3,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230614,2023,156,EM;CC;CM,0.1,ft,in,CT,P6,PIPO,319,25,18.3,,78,33.2,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine 20230613,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,858,PIPO,0,12,6.2,,24,15,,L,na ,na ,G,N,0,Spray painted with number 1,20230707,CC
+Lone Pine 20230614,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P2,PIPO,2,32,11.1,,32.5,13,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230615,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P3,PIPO,4.8,24.5,8.9,,26,11.5,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230616,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P4,PIPO,13,8,6.4,,24,12,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230617,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P5,PIPO,14,17,8.4,,28,11.5,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230618,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P6,PIPO,19,20.5,7,,27,12.8,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230619,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P7,PIPO,33,28,7.6,,24,14.5,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230620,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P8,PIPO,39,33.5,8,,21,7.5,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230621,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P9,PIPO,52,28,7.2,,25,11.5,,L,na ,na ,G,N,0,Incoming cones,20230707,CC
+Lone Pine 20230622,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P10,PIPO,60,21.5,5.5,,25.5,12.5,,L,na ,na ,G,N,0,Incoming cones,20230707,CC
+Lone Pine 20230623,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P11,PIPO,62,10.5,8.6,,26,12.7,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230624,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P12,PIPO,63,14,4.8,,21,12.2,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230625,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P13,PIPO,68,18,5.7,,21.5,13,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230626,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P14,PIPO,80,18,5.5,,25.2,10.6,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230627,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P15,PIPO,94,22.5,5.5,,21.5,12.2,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230628,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P16,PIPO,99,32,7.4,,25.5,13,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230629,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P17,PIPO,103,23.5,6.4,,28,10,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230630,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P18,PIPO,108,26,6.6,,29,15,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230631,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P19,PIPO,114,34,8.9,,38,20,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230632,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P20,PIPO,117,17,16.3,,38.5,14,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230633,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P21,PIPO,121,34.5,5.1,,28,12,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230634,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P22,PIPO,126,32,9,,32,11.5,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230635,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P23,PIPO,129,27.5,4.7,,27.5,12.8,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230636,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P24,PIPO,130,28.5,4.8,,28.5,10.7,,L,na ,na ,G,D,0,Conjoined at base w P23,20230707,CC
+Lone Pine 20230637,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P25,PIPO,146,30.5,5.5,,30.5,10.5,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230638,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P26,PIPO,154,13.5,4.6,,22.8,9.7,,L,na ,na ,G,N,0,,20230707,CC
+Lone Pine 20230639,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P27,PIPO,160,19,4.7,,26,8.7,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230640,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P28,PIPO,171,10,8,,27,13.5,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230641,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P29,PIPO,172,6.5,5.1,,25.6,12.8,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230642,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P30,PIPO,173,30,5.5,,25,8.7,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230643,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P31,PIPO,180,23,5.7,,31,12.5,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230644,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P32,PIPO,185,24,5.3,,11.1,na,,D2,na ,na ,na,N,1,Dead w broken top,20230707,CC
+Lone Pine 20230645,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P33,PIPO,186,29,6.6,,26,10,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine 20230646,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P34,PIPO,193,23,7.8,,27,14,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230647,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P35,PIPO,202,27,6.3,,27.1,12.5,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230648,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P36,PIPO,206,27.5,6.4,,28,13,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230649,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P37,PIPO,207,12,7.5,,27.5,12.3,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230650,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P38,PIPO,214,20,8.2,,34.5,13.3,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230651,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P39,PIPO,217,28,6.4,,25.3,14.5,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230652,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P40,PIPO,221,25.5,4.9,,23,13.7,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230653,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P41,PIPO,230,31,5.7,,24.7,12,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230654,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P42,PIPO,232,20,6.8,,27.8,11.7,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230655,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P43,PIPO,241,25.5,4.2,,19.5,8.1,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230656,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P44,PIPO,243,27,5.6,,34,10,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230657,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P45,PIPO,267,26.5,6.2,,24,9,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230658,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P46,PIPO,276,12,8.4,,30,11.8,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230659,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,p47,PIPO,283,36,4.9,,19.8,6,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230660,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P48,PIPO,285,4,8.2,,31.4,11.7,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230661,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P49,PIPO,286,16.5,5.4,,26.8,11,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230662,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P50,PIPO,307,16,7.3,,30,11.7,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230663,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P51,PIPO,308,27.5,5.6,,23.6,11.5,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230664,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P52,PIPO,319,25,6.4,,22,13,,L,na ,na ,G,D,1,Incoming cones,20230707,CC
+Lone Pine 20230665,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P53,PIPO,331,19.5,6.6,,26,13.3,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine 20230666,20230613,2023,3,"BA, NS, JL",0.1,ft,in,Plantation,P54,PIPO,350,18,5,,24.5,11.6,,L,na ,na ,G,D,0,Incoming cones,20230707,CC
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,856,PIPO,6,27,12.5,,41.8,11.3,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P2,PIPO,16,27,9.3,,39.7,6,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P3,PIPO,30,29,7.6,,34.6,14.1,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P4,PIPO,50,30,10.1,,32.1,12.6,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P5,PIPO,70,36,5.3,,26.1,9.7,,L,na ,na ,G,S,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P6,PIPO,79,19,9,,37.9,11.2,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P7,PIPO,98,32,4.5,,19,2,,L,na ,na ,G,D,0,leaning,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P8,PIPO,100,23,9.5,,38.2,12.2,,L,na ,na ,G,M,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P9,PIPO,103,28.5,6.1,,28.7,6,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P10,PIPO,112,27,4.9,,23.4,7.7,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P11,PIPO,139,13,9.4,,42.1,14.1,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P12,PIPO,141,21,7.4,,33.1,9.5,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P13,PIPO,161,17.5,6.2,,29.9,14.7,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P14,PIPO,163,20.5,7.1,,34,9.8,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P15,PIPO,171,20.5,5.5,,22.9,6.2,,L,na ,na ,G,D,0,top broken,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P16,PIPO,192,30,7.8,,30.7,11.4,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P17,PIPO,204,23,7.5,,32.1,12.1,,L,na ,na ,G,D,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P18,PIPO,293,6,11.3,,38.9,13.4,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P19,PIPO,300,32,8.1,,38.2,16.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P20,PIPO,311,24,5.8,,13.5,4,,L,na ,na ,G,N,1,leaning,20230707,NS
+Lone Pine,20230612,2023,1,"BA,NS,JL",0.1,ft,in,Plantation,P21,PIPO,330,27,5.4,,7.9,1,,L,na ,na ,G,D,0,leaning,20230707,NS
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,906,POTR,19.8,32,5.8,,33.7,11.2,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A2,POTR,23.1,24,7.1,,34.7,17.6,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A3,POTR,24.5,22,7.5,,33.9,16.4,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A4,POTR,29.1,26,5.5,,32.1,17.1,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,907,POTR,31.5,17.5,9.7,,41.3,15.4,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A5,POTR,31.5,34,5.4,,36,21.4,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A6,POTR,39.6,31,5,,35.9,22.4,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A7,POTR,40.5,23,4.1,,43.1,27.4,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A8,POTR,42.9,24,4.8,,38.7,20.9,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A9,POTR,44,23,7.9,,38.9,25,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A10,POTR,56.4,15,4.9,,38.5,21.7,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A11,POTR,60.7,22,5.1,,31.6,22.1,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A12,POTR,61.1,17,5.4,,35.6,22.1,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A13,POTR,65,14,6.7,,39.8,23,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A14,POTR,69,17.5,4,,32.2,23,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A15,POTR,73,20.5,4.1,,33.3,21.7,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A16,POTR,74.5,25.5,6,,32.9,23.5,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P2,PIPO,76.1,28,5.5,,37.3,28.9,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P3,PIPO,86.2,28,5.9,,29.2,24,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P4,PIPO,94.5,23.5,10.7,,43,27.4,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P5,PIPO,94.5,30.5,5.4,,27.4,16.6,,L,na ,na ,G,M,0,BROKEN TOP,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A17,POTR,98.3,16,7.1,,36.7,20,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P6,PIPO,100,6,10.6,,30.3,11.7,,L,na ,na ,G,M,0,BROKEN TOP,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A18,POTR,102,32.5,5.1,,29,24.6,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A19,POTR,103,35,4.9,,32.9,25.3,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A20,POTR,105,31.5,5.8,,37.8,26.5,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A21,POTR,106,36,5.9,,40,25.3,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P7,PIPO,107,15.5,6.6,,27.1,5.3,,L,na ,na ,G,M,0,BROKEN TOP,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P8,PIPO,107,31.5,5,,35,6.7,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A22,POTR,110,26,6,,38,26,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A23,POTR,111,29,5,,39,23.6,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A24,POTR,114,32,6.2,,33.7,19.5,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A25,POTR,115,29,7.5,,39.7,20.8,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P9,PIPO,181,28,11.8,,44.1,12.3,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P10,PIPO,188,22.5,10,,39.9,13.1,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P11,PIPO,214,18,12.5,,37.3,15.5,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P12,PIPO,223,30,9.3,,32.7,7.2,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P13,PIPO,272,8,12.7,,38.5,10.3,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A26,POTR,315,32.5,9.6,,39.7,12.5,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,A27,POTR,317,43.5,8.6,,36.9,9.1,,L,na ,na ,G,N,0,,20230707,EM
+Lone Pine,20230612,2023,2,"EM,CM,CC,AC",0.1,ft,in,Plantation,P14,PIPO,337,23.5,11.1,,37.8,13.7,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,857,POTR5,9,15,5.3,,30.7,19,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A2,POTR5,11,27,5,,30.5,22.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A3,POTR5,17.7,34,4.2,,31.9,22.9,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A4,POTR5,25.1,10.5,4.5,,32.2,22.3,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A5,POTR5,35.8,13.5,4.2,,34.7,24.7,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P1,PIPO,37,34.5,21.6,,62.6,24.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P2,PIPO,47.6,21,15.3,,48,25.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P3,PIPO,52,22.5,12.7,,49.9,27.9,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A6,POTR5,66.5,35.5,5.7,,31.7,21.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A7,POTR5,66.9,27,5,,31.2,21.9,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A8,POTR5,68.2,35.5,5.5,,33.9,23.5,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A9,POTR5,68.5,14.5,4.5,,35.6,22.3,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A10,POTR5,74,27.5,4.8,,28,24.4,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A11,POTR5,74.7,25,4.3,,36.4,27.3,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A12,POTR5,93.7,27,4.1,,37,25,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A13,POTR5,97.9,27.5,4.1,,28.5,22,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A14,POTR5,98,9.5,4.3,,31,27,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A15,POTR5,106,23.5,5.5,,30,21,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A16,POTR5,108,25,5.4,,37,26,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A17,POTR5,111,23.5,4.8,,36.3,16.6,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A18,POTR5,111,34.5,5.7,,34.5,19.4,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A19,POTR5,112,17,5.2,,31,27.6,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A20,POTR5,112.4,10,4,,33.3,27.4,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A21,POTR5,131,20,4.6,,34.9,23.8,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A22,POTR5,137,22.5,4.6,,29.8,21.5,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A23,POTR5,143,9,4.1,,35.9,29.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A24,POTR5,143,20,4.4,,31.1,23.6,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A25,POTR5,153.1,13.5,5,,36.3,24,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A26,POTR5,156.4,34.5,5.4,,33.7,23.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A27,POTR5,158,35,4.8,,29.4,16.8,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A28,POTR5,159,25.5,4.8,,29.5,17.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A29,POTR5,161,35.5,6,,25.6,17.9,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A30,POTR5,165,24.5,5.1,,28.9,na,,D,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A31,POTR5,173,16,4.7,,30,19.5,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A32,POTR5,175,34,4.9,,31.4,29.3,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A33,POTR5,176,35.5,4.8,,29.9,19.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A34,POTR5,178,32.5,4.4,,30.9,24.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A35,POTR5,204,14.5,4.7,,33.5,na,,D1,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A36,POTR5,211,8.5,5.3,42.3,42.3,25.1,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A37,POTR5,216,9.5,5.1,,39.7,25.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P4,PIPO,217,27,22.1,,67.9,26.7,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A38,POTR5,231,18.5,4.1,,27.9,14.9,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A39,POTR5,243,14,4.1,,30,20.7,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A40,POTR5,245,18,4.6,,30.9,18.5,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A41,POTR5,251,18,4.3,,30.1,21.1,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A42,POTR5,252,27,5.8,,29.7,na,,D1,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A43,POTR5,254,25,4,,28.4,na,,D1,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A44,POTR5,255,32,6,,32.1,19.7,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A45,POTR5,256,26.5,4.9,,29.6,20.7,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A46,POTR5,263,27.5,4.3,,22.7,15.2,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A47,POTR5,275,17.5,4.4,,32.9,22.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A48,POTR5,283,10,4.7,,36.9,25.2,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P5,PIPO,292,29,19.2,,48.9,20.9,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P6,PIPO,294,31,17.3,,58.9,21.8,,L,na ,na ,G,D,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A49,POTR5,296,14,4.3,,33.9,24.3,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A50,POTR5,307,14.5,4.5,,33.8,22.6,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A51,POTR5,313,26.5,4.1,,35.6,26.1,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A52,POTR5,317,24,5,,35.2,26.5,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A53,POTR5,321,34.5,4.3,,26.9,20.1,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A54,POTR5,323,21.5,4.1,,32.7,25.1,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A55,POTR5,326,30,5.2,,35.3,27.2,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A56,POTR5,327,30,5.9,,42.7,30.4,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A57,POTR5,328,35.5,4.5,,44.1,30.7,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A58,POTR5,331,32.5,6.7,,44.3,31,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A59,POTR5,335,35,6,,42.2,31,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A60,POTR5,334,31.5,5.1,,35.2,27.2,,L,na ,na ,G,N,1,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A61,POTR5,340,16.5,4,,27.1,20.9,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,P7,PIPO,352,6,5.7,,34.8,20.1,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230612,2023,7,"JL,AC,EM,CC,CM,NS,BA",0.1,ft,in,Plantation,A62,POTR5,357,23,5.1,,42.3,23.4,,L,na ,na ,G,N,0,,20230707,NS
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,920,PIPO,7.3,33,19,,58,17,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,P2,PIPO,35,18,11.4,,42,14.7,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,P3,PIPO,54.1,24.5,23,,67,16,,L,na ,na ,G,M,0,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q1,QUGA,98,31.5,7,,27.7,6.3,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q2,QUGA,102.5,33.5,7.5,,20,7.4,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q3,QUGA,103.7,29,6.6,,35,5.3,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q4,QUGA,104,32,6.3,,26.3,5.7,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q5,QUGA,136,29,4.6,,17.5,6,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q6,QUGA,148,30,4.3,,18,3.3,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q7,QUGA,169,22,4,,13,3.5,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q8,QUGA,197.7,21,5,,17,6,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q9,QUGA,199,19.5,5.1,,13,4.5,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q10,QUGA,286,24,4.2,,14.5,4,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q11,QUGA,310,26,9.1,,11.2,6,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q12,QUGA,311,19,4.3,,10,4.1,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,136,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q13,QUGA,317,24,4,,8.2,Broken,,L,na ,na ,G,M,1,,20230707,EM
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,996,QUGA,7,17,5.2,,21.4,4.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q2,QUGA,7.2,21,5.2,,16.9,5.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q3,QUGA,7.2,34.5,6.2,,18.4,5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q4,QUGA,7.2,29,4.4,,21.3,4.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q5,QUGA,20.7,31,5,,10.8,4.7,,M,na ,na ,G,N,1,Huge welts; sick and dying,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q6,QUGA,23,26,5.2,,18.2,3,,L,na ,na ,G,N,1,Welts,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q7,QUGA,27,21,5.8,,9.9,2.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q8,QUGA,43,13.5,4.9,,8.8,5.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q9,QUGA,49,19,5.5,,16.6,5.3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q10,QUGA,52.4,22.5,5,,7.8,na,,D1,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q11,QUGA,49,30.5,4.9,,15.6,5.3,,L,na ,na ,G,N,1,Very slanted,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q12,QUGA,52.7,19,6.2,,28.1,3.9,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q13,QUGA,52.9,24.5,5.8,,20.7,5.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q14,QUGA,57,13.5,6.4,,27.9,5.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q15,QUGA,59.1,26.5,5,,12.3,4.8,,L,na ,na ,G,N,1,Very slanted,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q16,QUGA,71.9,9,5.4,,17.1,5.3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q17,QUGA,74,12,5.4,,19.3,4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q18,QUGA,77,9,5.2,,14.8,6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q19,QUGA,77,25,5.1,,14.4,3.1,,L,na ,na ,G,N,1,Welts,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q20,QUGA,77,28.5,4.9,,12.1,3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q21,QUGA,82.4,20,4.6,,15.8,4.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q22,QUGA,82.8,29.5,6.6,,18.7,5.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q23,QUGA,85,34,5.7,,15.3,6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q24,QUGA,90,33,4.8,,14.6,2.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q25,QUGA,90,29,5.7,,14.5,6.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q26,QUGA,99,22.5,4.4,,21.3,5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q27,QUGA,104,17.5,5.7,,17.1,5.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q28,QUGA,107,21,7.3,,27.7,5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q29,QUGA,111,17.5,6,,11.8,4.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q30,QUGA,115,20.5,6.4,,16.2,3.2,,L,na ,na ,G,N,1,DBH taken above breast height due to Welt,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q31,QUGA,125,18,4,,12.9,3.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q32,QUGA,151,15.5,4.5,,14.5,5.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q33,QUGA,160,12,4.7,,15.1,3.6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q34,QUGA,165,17.5,4.6,,16.7,4.8,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q35,QUGA,167,14.5,4.8,,22,3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q36,QUGA,172,22,4.9,,22,3.6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q37,QUGA,177,28.7,5.2,,26.1,3.3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q38,QUGA,181,19.5,4.2,,26,4.2,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q39,QUGA,188,24.5,4.4,,14.5,1.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q40,QUGA,194,20,5.1,,23.2,4.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q41,QUGA,204,23.5,4.4,,10.8,2.6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q42,QUGA,218,11,4.9,,13.7,3.8,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q43,QUGA,218,21,4.6,,9,5.5,,L,na ,na ,G,N,1,Big welts,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q44,QUGA,224,18.5,4.9,,21.6,3.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q45,QUGA,227,17,5.7,,16.6,3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q46,QUGA,229,20,5.3,,24.5,4.3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q47,QUGA,236,20.5,4.1,,6.3,3,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q48,QUGA,241,22.5,4.6,,10.9,3.2,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q49,QUGA,245,17,4.5,,17.7,3.6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q50,QUGA,250,22,5.1,,14.7,3.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q51,QUGA,271,22,6,,14.8,4.6,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q52,QUGA,273,16,7.7,,25.3,2.9,,L,na ,na ,G,N,1,DBH taken below breast height due to lots of welts,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q53,QUGA,279,23.5,4.4,,6.4,na,,D3,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q54,QUGA,289,18.5,6.3,,26.1,3.8,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q55,QUGA,297,19,4.5,,6.6,na,,D3,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q56,QUGA,302,11.8,4.9,,22.3,3.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q57,QUGA,306,19,6.9,,23.1,4,,L,na ,na ,G,N,1,DBH taken below breast height due to lots of welts,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q58,QUGA,306,26.5,4.2,,17.8,2.9,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q59,QUGA,311,23.5,5.9,,22.8,3.4,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q60,QUGA,319,22,5.9,,17.1,5.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q61,QUGA,323,4,6.6,,32,4.9,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q62,QUGA,327,7,5.1,,28.3,5.5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q63,QUGA,330,6.5,5.8,,20,5,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q64,QUGA,330,27.5,5.9,,16.4,6.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q65,QUGA,340,29.5,6.2,,6.8,na,,D3,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q66,QUGA,341,27,4.6,,15.8,7.3,,L,na ,na ,G,N,1,Q67 and Q68 attached at base but split before DBH,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q67,QUGA,341,27,4.5,,22.9,5.7,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230622,2023,137,"BA, CM, CC, EM, NS",0.1,ft,in,Oak Reduction,Q68,QUGA,346,27,4,,23,3.1,,L,na ,na ,G,N,1,,20230707,CC
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,865,PIPO,113,13,11.7,,43.5,9,,L,na ,na ,G,M,0,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P2,PIPO,165,27,14.7,,66,21,,M,na ,na ,NF,M,0,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P3,PIPO,172,34,18.5,,67.5,13.5,,M,na ,na ,NF,M,0,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P4,PIPO,195,31.5,20.6,,70,21,,L,na ,na ,GPT,M,0,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P5,PIPO,257,35,17.1,,55.7,17,,L,na ,na ,G,M,1,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P6,PIPO,285,33,8.2,,35,9.7,,L,na ,na ,G,M,1,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P7,PIPO,291,28.5,16.8,,61,20,,L,na ,na ,NF,M,1,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P8,PIPO,347,13,19.6,,63,11,,L,na ,na ,GPT,M,0,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P9,PIPO,28,12,11.4,,51,9.4,,L,na ,na ,GPT,M,1,,20230802,NS
+Lone Pine,20230619,2023,101,"CC, BA, EM",0.1,ft,in,Oak Reduction,P10,PIPO,38,17,9.7,,7.7,3,,L,na ,na ,GPT,M,0,bent over,20230802,NS
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,909,QUGA,134,19,6.4,,19.3,5.7,,L,na ,na ,na ,na ,0,,20230802,CM
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,Q2,QUGA,142,17,7.7,,7.1,3.7,,L,na ,na ,na ,na ,1,Broken top,20230802,CM
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,P10,PIPO,178,20.5,18,,69.5,27.6,,L,na ,na ,G,D,0,,20230802,CM
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,P2,PIPO,227,33.5,25.6,,73,14.3,,L,na ,na ,G,D,1,,20230802,CM
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,P3,PIPO,270,15,22.9,,68.4,12.7,,L,na ,na ,G,D,0,,20230802,CM
+Lone Pine,20230619,2023,99,"NS,CC,EM",0.1,ft,in,Oak Reduction,P4,PIPO,349,16.5,24.2,,74.6,13.6,,L,na ,na ,G,D,0,,20230802,CM
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,866,QUGA,57,29.5,5.5,,6.3,4.5,,L,na ,na ,G,N,1,Broken top,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q2,QUGA,59,32,5.6,,17.4,4.8,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q3,QUGA,65,19,4.5,,5.3,2.1,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q4,QUGA,66,26,4.8,,8.2,4.7,,L,na ,na ,G,N,1,Q4 and Q5 same tree split just below DBH,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q5,QUGA,68,26,4.4,,19,4.7,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q6,QUGA,72,23,4.9,,13.1,5.3,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q7,QUGA,133,15.5,5.9,,13.3,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q8,QUGA,152,20,4.9,,15.6,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q9,QUGA,156,27,6.7,,14.7,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q10,QUGA,158,21.5,4.5,,11.6,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q11,QUGA,164,32.5,7.4,,21.9,4.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q12,QUGA,168,21,6.3,,17.3,4.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q13,QUGA,305,35.5,4.3,,5.6,na,,D1,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,228,"CC,NS,CM",0.1,ft,in,<Null>,Q14,QUGA,311,33,5.2,,11.4,na,,D1,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230619,2023,100,"BA,NS,CM",0.1,ft,in,Oak Reduction,A1,POTR,203,16,4,,16.9,na,,D1,na ,na ,na ,na ,0,,20230802,CM
+Lone Pine,20230619,2023,100,"BA,NS,CM",0.1,ft,in,Oak Reduction,A2,POTR,209,16,5.5,,15,na,,D1,na ,na ,na ,na ,0,,20230802,CM
+Lone Pine,20230619,2023,100,"BA,NS,CM",0.1,ft,in,Oak Reduction,A3,POTR,326,25,11,,27.5,na,,D1,na ,na ,na ,na ,0,,20230802,CM
+Lone Pine,20230619,2023,100,"BA,NS,CM",0.1,ft,in,Oak Reduction,910,PIPO,350,17.5,22,,74,13.5,,L,na ,na ,G,D,0,First alive tree!,20230802,CM
+Lone Pine,20230619,2023,100,"BA,NS,CM",0.1,ft,in,Oak Reduction,A4,POTR,359,15.5,6.4,,30.3,na,,D1,na ,na ,na ,na ,0,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,916,QUGA,77,35,5.4,,14,5.2,,L,na ,na ,G,N,1,SLANTED,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q2,QUGA,78,36,5.1,,16.5,5.8,,L,na ,na ,G,N,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q3,QUGA,79,32.5,4.8,,18,6,,L,na ,na ,G,N,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q4,QUGA,110,28.5,4.1,,11.6,4,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q5,QUGA,152,33.5,4.5,,13.5,3.7,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q6,QUGA,154,29.5,4.5,,14.5,5.5,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q7,QUGA,160,27,5.7,,14.5,6,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q8,QUGA,352,33,4.8,,10.4,6,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,230,"EM,BA,CM",0.1,ft,in,Oak Reduction,Q9,QUGA,355,27,7.9,,16.5,5,,L,na ,na ,G,M,1,,20230802,CM
+Lone Pine,20230620,2023,231,"BA,CM,EM",0.1,ft,in,<Null>,915,PIPO,157,21,22.2,,82.7,13.7,,L,na ,na ,G,D,0,new cones,20230802,NS
+Lone Pine,20230620,2023,231,"BA,CM,EM",0.1,ft,in,<Null>,P2,PIPO,180,14,16.9,,44.2,12.2,,L,na ,na ,G,D,0,new cones,20230802,NS
+Lone Pine,20230620,2023,231,"BA,CM,EM",0.1,ft,in,<Null>,Q1,QUGA,281,27,4.5,,5.4,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230620,2023,231,"BA,CM,EM",0.1,ft,in,<Null>,Q2,QUGA,289,35,4.9,,8.8,3.5,,L,na ,na ,G,N,1,,20230802,NS
+Lone Pine,20230620,2023,231,"BA,CM,EM",0.1,ft,in,<Null>,P3,PIPO,355,28,15.2,,40.9,5.7,,L,na ,na ,G,D,1,,20230802,NS
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,867,PIPO,25,29.5,8,,27.1,10.2,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P2,PIPO,30,22.5,6.9,,26.6,9.6,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P3,PIPO,39,14,10.6,,37.7,12.9,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P4,PIPO,46,18,4.9,,22.8,6,,L,na ,na ,G,N,0,,20200803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P5,PIPO,50,9.5,4.9,,24.5,5.8,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P6,PIPO,62,33,5.2,,13.8,2,,L,na ,na ,G,N,0,broken top,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P7,PIPO,72,9,5.3,,27.7,9.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P8,PIPO,76,31,7.1,,27.9,8.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P9,PIPO,89,29.5,13.8,,40.6,17.5,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P10,PIPO,90,20,8.1,,35.2,13.1,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P11,PIPO,112,30,9.2,,38.2,15.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P12,PIPO,113,12,8.4,,34.4,13.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P13,PIPO,114,17,6.5,,23,13.2,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P14,PIPO,122,32.5,6.6,,27.2,11.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P15,PIPO,129,27.5,9.4,,34.4,14.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P16,PIPO,135,33,7.4,,35.8,13.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P17,PIPO,137,7.5,7.5,,34.4,14.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P18,PIPO,137,19.5,6.1,,25.4,15.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P19,PIPO,142,29,6.7,,27.5,8.1,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P20,PIPO,146,13.5,7,,31.9,13.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P21,PIPO,169,25.5,8,,25,12.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P22,PIPO,174,36,6.8,,25.9,11.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P23,PIPO,183,31.5,9.2,,32.7,15.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P24,PIPO,192,32,5.4,,33,16.5,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P25,PIPO,193,36,6.7,,34.9,11.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P26,PIPO,197,26,4.9,,10.5,3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P27,PIPO,208,32.5,4.3,,9.1,6.2,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P28,PIPO,208,34,8,,29.7,12.6,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P29,PIPO,239,36.5,5.7,,30.7,14.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P30,PIPO,241,33.5,6,,27.6,11.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P31,PIPO,242,34,4.5,,27.6,11.5,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P32,PIPO,248,32.5,5.9,,23,10.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P33,PIPO,255,8,9.5,,39.4,11.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P34,PIPO,255,33,7.8,,31.2,7.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P35,PIPO,260,33.5,4.5,,28.6,7.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P36,PIPO,274,15.5,8.4,,32,8.8,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P37,PIPO,283,26,5,,17.5,6.7,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P38,PIPO,320,15.5,9.9,,35.6,17,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P39,PIPO,325,31.5,8.9,,29.9,15.5,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P40,PIPO,328,25,7.9,,29.2,8.3,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P41,PIPO,337,29,6,,27.7,11.4,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P42,PIPO,337,29,4.1,,11,5.6,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P43,PIPO,340,11.5,10.5,,37.8,13,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,500,"NS,CC,CM",0.1,ft,in,Plantation,P44,PIPO,345,28.5,7.9,,30.2,13.8,,L,na ,na ,G,N,0,,20230803,HN
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,917,PIPO,22.7,15,5.1,,20.5,4.9,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P2,PIPO,33,20.5,7.6,,25.5,6.2,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P3,PIPO,38,20,4.7,,27.3,8.3,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P4,PIPO,45,22,4.4,,18.9,5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P5,PIPO,46,14.5,5.1,,23.5,9.3,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P6,PIPO,49,21.5,7,,28.9,12.9,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P7,PIPO,54,18,4.8,,15.9,9.6,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P8,PIPO,55.9,8,6.2,,22.4,5.5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P9,PIPO,57,19,6.4,,30.7,12.1,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P10,PIPO,60,16.5,8.6,,31.3,5.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P11,PIPO,74.7,23,8.6,,30.8,10.5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P12,PIPO,76,29,7.4,,32.3,11.1,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P13,PIPO,76.4,28.5,4.7,,31.7,12.6,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P14,PIPO,77,31.5,6.1,,29.6,13.1,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P15,PIPO,79,30,4.3,,22.3,11.8,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P16,PIPO,80,31,4.6,,29,13,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P17,PIPO,83,28,4.6,,27.8,17,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P18,PIPO,87,31,5.1,,30.6,20,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P19,PIPO,90,31,6.4,,31.8,16,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P20,PIPO,93,33,5.3,,27.5,13.5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P21,PIPO,95,17,8.8,,30.4,10.1,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P22,PIPO,99,35,6.1,,26,10,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P23,PIPO,106,11.5,9.3,,29.7,9.2,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P24,PIPO,109,33,4.1,,18,7.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P25,PIPO,121,29.5,4.2,,22.2,8.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P26,PIPO,123,21,5.5,,23.9,9,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P27,PIPO,124,16,4.4,,21,8.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P28,PIPO,125,18,5.5,,22,10.6,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P29,PIPO,134,27,7.5,,27.5,9.7,,L,na ,na ,G,M,1,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P30,PIPO,157,21,4.5,,19,7.1,,L,na ,na ,G,M,1,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P31,PIPO,154,29,5.6,,22.1,7.8,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P32,PIPO,166,12,6.2,,21.6,9.1,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P33,PIPO,175,19,4.7,,18.6,9.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P34,PIPO,191,22,6,,22.5,8.5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P35,PIPO,199,32.5,4.8,,19,4.7,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P36,PIPO,203,28,5.6,,21.8,6.4,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230620,2023,501,"BA,CC,CM",0.1,ft,in,Plantation,P37,PIPO,227,30.5,6.3,,20.2,3.5,,L,na ,na ,G,M,0,Early cones,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,868,PIPO,20,18.5,27.3,,75.9,"23,2",,L,na ,na ,G,M,1,Coness are in early development stages,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,P2,PIPO,92,21.5,23.9,,60.1,14.6,,L,na ,na ,G,M,1,Coness are in early development stages,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,P3,PIPO,208,24,19.5,,74.6,21.9,,L,na ,na ,G,M,1,Coness are in early development stages,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,P4,PIPO,214,15,9,,36.6,14.1,,L,na ,na ,G,M,0,Coness are in early development stages,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,P5,PIPO,233,26,18.1,,71.1,19.5,,L,na ,na ,G,M,0,Coness are in early development stages,20230816,CM
+Lone Pine,20230621,2023,502,Bender; Beans,0.1,ft,in,Plantation,P6,PIPO,237,20,19.2,,65.5,23.9,,L,na ,na ,G,M,1,Coness are in early development stages,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,918,PIPO,11,15,8.3,,28.5,5.3,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P2,PIPO,18,24,7.5,,26.7,6.4,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P3,PIPO,26,31,7.4,,27.4,12.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P4,PIPO,42,19,9.2,,25.8,2.3,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P5,PIPO,108,23,8.4,,29.7,5.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P6,PIPO,120,32,6.7,,29.4,10.3,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P7,PIPO,121,8,8.8,,32.4,9.4,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P8,PIPO,122,27,5.3,,28.6,10.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P9,PIPO,122,34,9.1,,34.4,9.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P10,PIPO,122,22,5.6,,27.3,14.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P11,PIPO,129,21.5,6.5,,27.9,11.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P12,PIPO,139,31.5,6,,28.3,15,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P13,PIPO,141,27,5.9,,26.8,12.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P14,PIPO,143,30,4.6,,27.5,15.4,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P15,PIPO,144,32,4.8,,29.1,12.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P16,PIPO,144,36.5,6.1,,26.1,12.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P17,PIPO,151,30,6,,27.9,14.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P18,PIPO,154,20,5.4,,25.9,10.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P19,PIPO,163,24,4.1,,23.7,10.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P20,PIPO,166,13.5,6.7,,30.4,12.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P21,PIPO,192,34,6,,28.6,14.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P22,PIPO,196,21.5,5.2,,21.9,15.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P23,PIPO,205,29,5.8,,21.1,8.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P24,PIPO,210,26.5,5,,25.4,11.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P25,PIPO,215,31,5.4,,26.3,10.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P26,PIPO,217,12,6.3,,24.3,12.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P27,PIPO,217,33.5,7.1,,30,11.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P28,PIPO,219,22.5,9.5,,31.4,11.1,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P29,PIPO,220,4.5,9,,31,10.7,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P30,PIPO,220,36,5.3,,22.2,7,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P31,PIPO,237,7.5,5.1,,22,5.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P32,PIPO,282,10,5.1,,18,8.5,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P33,PIPO,335,21,6.1,,24.7,9.5,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P34,PIPO,344,36,6.3,,24.2,5.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,503,"EM,CM,NS",0.1,ft,in,Plantation,P35,PIPO,351,19,7,,28,10.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,871,PIPO,14.1,24.5,8,,35.8,14,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P2,PIPO,32.1,32,8.8,,28.7,8.4,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P3,PIPO,40.3,10,6.8,,23.5,5,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P4,PIPO,95,32,19.5,,55.4,11,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P5,PIPO,97,21,25.1,,81.7,12.5,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P6,PIPO,152,31,7,,23.8,4.6,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P7,PIPO,160,17.5,4.5,,16.3,5.3,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P8,PIPO,165,24.5,5.6,,22,6.1,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P9,PIPO,192,33.5,8.9,,34.4,2.2,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P10,PIPO,202,13.5,7.5,,28,6.7,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P11,PIPO,223,4.5,5,,14.2,4.8,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P12,PIPO,305,20,8.8,,27.3,7.2,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P13,PIPO,339,19.5,8.3,,23.5,7.4,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P14,PIPO,348,28,4,,16.8,6,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P15,PIPO,350,25.5,5.9,,25,6.9,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P16,PIPO,350,32,6.5,,25.2,8.2,,L,na ,na ,G,M,1,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P17,PIPO,353,24,7.7,,23.8,8.3,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P18,PIPO,355,35.5,7,,25.7,9.4,,L,na ,na ,G,M,0,"incoming cones, mistle toe",20230816,CM
+Lone Pine,20230621,2023,504,"BA,EM,CC",0.1,ft,in,Plantation,P19,PIPO,359,28.5,8.6,,32.6,9.4,,L,na ,na ,G,M,0,incoming cones,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,869,PIPO,39.5,32,4.4,20.2,20.2,3.7,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P2,PIPO,41.2,33.5,6.2,24.5,24.5,4,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P3,PIPO,49.3,32,5.6,20.2,20.2,6.8,,L,na ,na ,G,D,1,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P4,PIPO,108,24,4.9,21.7,21.7,10,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P5,PIPO,137,31,8.6,32,32,10.2,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P6,PIPO,213,24.5,23.5,60,60,18.9,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230621,2023,505,"BA,EM,NS",0.1,ft,in,Plantation,P7,PIPO,288,16.5,23.3,67,67,17.8,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,870,PIPO,15,28,4.8,,15.5,3.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P2,PIPO,19,24.5,6.4,,24.9,11.1,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P3,PIPO,21,14,6.1,,19.7,7.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P4,PIPO,27,36,4.6,,17.5,3.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P5,PIPO,34,20,6.4,,24.5,5.6,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P6,PIPO,55,22,6.6,,23.5,5.5,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P7,PIPO,70,16.5,5.2,,19.4,4.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P8,PIPO,72,9,5.5,,20,4.8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P9,PIPO,142,29,15.3,,52.9,16,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P10,PIPO,144,25,16.6,,54,22.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P11,PIPO,170,24.5,8.5,,29.3,5.3,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P12,PIPO,189,32.5,21.4,,2\60.5,8.6,,L,na ,na ,G,M,0,fungus,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P13,PIPO,329,14,5.7,,21.2,6.8,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P14,PIPO,329,22,4.7,,14.6,5.2,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P15,PIPO,256,11,6.3,,24.8,8.1,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P16,PIPO,273,24.5,7.1,,23.9,9.3,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P17,PIPO,290,26,7,,22.9,8.9,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P18,PIPO,298,18.5,6.7,,22,5.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P19,PIPO,298,32.5,8,,30,10.3,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P20,PIPO,302,16,4.4,,17,7.4,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P21,PIPO,310,25,6.4,,23,9.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P22,PIPO,312,36.5,5.6,,23.6,10.9,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P23,PIPO,322,34.5,6.9,,27,12.7,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P24,PIPO,324,18.5,7.7,,23.9,8,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P25,PIPO,328,27.5,9.1,,29.7,11.9,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P26,PIPO,320,24,6.5,,24,8,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P27,PIPO,345,10,5.7,,35,7.6,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P28,PIPO,352,30.5,5.2,,20.5,8.1,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P29,PIPO,4,17.5,4.3,,19.3,6.9,,L,na ,na ,G,M,1,,20230816,CM
+Lone Pine,20230621,2023,506,"EM,CM,CC",0.1,ft,in,Plantation,P30,PIPO,14.5,4.4,4.5,,20.6,6.2,,L,na ,na ,G,M,0,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,997,PIPO,91.3,36,7.1,,22,12.6,,L,na ,na ,G,N,1,broken top :(,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P2,PIPO,124.7,32,23.1,,66.3,14.2,,L,na ,na ,G,D,1,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P3,PIPO,148.7,35.5,21.2,,66.5,23.3,,L,na ,na ,G,D,1,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P4,PIPO,187,19,19.6,,63.4,31.2,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P5,PIPO,218.9,14.5,18.6,,54.7,13.8,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P6,PIPO,326,32,13,,53,15.9,,L,na ,na ,G,D,0,P6&P7 together at base,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P7,PIPO,328,31.5,23.7,,30.3,13.9,,L,na ,na ,G,D,0,,20230816,CM
+Lone Pine,20230620,2023,507,"CM,BA,EM",0.1,ft,in,Plantation,P8,PIPO,339,10.5,22.4,,62.1,25.3,,L,na ,na ,G,D,1,,20230816,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P1,PIPO,6,21,9.1,,53.5,,,D1,1,na ,G,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,9,25.5,8,,45,,,D2,1,na ,G,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P3,PIPO,23,31,4.3,,23.5,,,D2,6,na ,G,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P4,PIPO,25,21.5,10.9,,46.9,,,D2,3.7,na ,D,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P5,PIPO,26,30,12.7,,57.9,,,D2,7.8,na ,D,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P6,PIPO,27,31,8.6,,43.2,,,D2,5.7,na ,D,N,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,967,PIPO,64,21,6.8,,27.4,6,,L,na,na ,G,N,0,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,Q1,QUGA,190,17,4.3,,9,3.7,,L,na,na ,na,na,0,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P7,PIPO,198,15.5,15.1,,49.6,12.3,,L,na,na ,GPT,M,0,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P8,PIPO,247,30.5,11.9,,46.3,12.9,,L,1,na ,GPT,M,0,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P9,PIPO,249,32,8.5,,48.2,16.7,,L,3,na ,GPT,N,0,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,QUGA,288,26,4.3,,10,,,D1,na,na ,na,na,na,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,Q3,QUGA,289,24.5,4,,11,7.8,,L,na,na ,na,na,1,,20230925,CM
+Lone Pine,20230905,2023,616,"CC, NS, CM",0.1,ft,in,STS to LTR,P10,PIPO,349,21.5,12.6,,50.9,,,D1,na,na ,D,N,na,,20230925,CM
+Lone Pine,20230905,2023,619,"CC, NS, CM",0.1,ft,in,STS to LTR,968,PIPO,219,30,20.5,,66.8,15.6,,L,na,na ,G,D,1,,20230925,CM
+Lone Pine,20230905,2023,619,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,243,36,13.7,,58.5,32.7,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,969,QUGA,151,15,5,,21.5,4.6,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,QUGA,179,16.5,4,,13.3,3.9,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q3,QUGA,194,23,4.1,,17.3,8.6,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q4,QUGA,205,21,5.3,,10.4,2.2,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q5,QUGA,212,26.5,9.1,,19.7,8.3,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q6,QUGA,226,17.5,9.1,,13.6,1.3,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q7,QUGA,264,15.5,9.4,,21.2,5.6,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q8,QUGA,299,34.5,4.4,,10,na,,D2,na,na,G,N,0,,20230925,CM
+Lone Pine,20230905,2023,627,"CC, NS, CM",0.1,ft,in,STS to LTR,Q9,QUGA,358,29.5,15.6,,55,13.9,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,962,PIPO,54,37,20.4,,66.2,25.3,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P1,PIPO,67,26.5,17.9,,64.1,38.8,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,71,22,16,,62.8,15.4,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P3,PIPO,79,23,15,,59.4,24.6,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P4,PIPO,82,33,14,,57.5,36.6,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P5,PIPO,85,36,7.2,,24.1,6.8,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,Q1,QUGA,149,30.5,4.8,,13.2,6.8,,L,na,na,G,na,1,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,QUGA,158,30,4,,12.7,2.8,,L,na,na,G,na,1,,20230925,CM
+Lone Pine,20230906,2023,617,"CC, NS, CM",0.1,ft,in,STS to LTR,P6,PIPO,347,37,16.8,,69.8,20.7,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,966,QUGA,28,36.5,4,,16.6,5.9,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,QUGA,29,29,4.2,,17.2,5.4,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,P1,PIPO,45,32.5,24.5,,87.3,23.3,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q3,QUGA,49,34.5,4.3,,11.7,4.8,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q4,QUGA,64,29.5,5.9,,12.9,6.1,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,91,26,14.2,,50.5,17.5,,L,na,na,G,M,1,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q5,QUGA,116,25,6,,6.1,na,,D5,na,na,G,na,na,stump,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q6,QUGA,263,35,5.1,,15,7.5,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q7,QUGA,265,32,4.8,,14.7,8.3,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,P3,PIPO,312,35,18.5,,68.5,20.9,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q8,QUGA,319,25,4.6,,11.7,5.2,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,623,"CC, NS, CM",0.1,ft,in,STS to LTR,Q9,QUGA,322,18,4.9,,12.3,4.5,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P1,PIPO,25,33,5.2,,18.5,na,,D2,na,na,G,N,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,28,33.5,6.2,,40.3,na,,D2,na,na,G,N,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,963,PIPO,29,34,7.6,,44.1,15.6,,L,na,na,G,S,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P3,PIPO,30,25,16.8,,65.7,13.1,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P4,PIPO,33,21,17.6,,62.6,20.5,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P5,PIPO,61,3.5,17,,60.4,24.9,,L,na,na,G,M,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P6,PIPO,103,21.5,6.2,,17.4,7.9,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P7,PIPO,146,24.5,15.6,,55,24,,L,na,na,G,S,1,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P8,PIPO,150,18.5,17.6,,65,23.1,,L,na,na,G,M,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P9,PIPO,177,11.5,16.4,,62,31.8,,L,na,na,G,M,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,Q1,PIPO,183,22.5,4.1,,11.7,6.8,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,PIPO,192,19,4.4,,14.2,5.2,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,Q3,PIPO,210,28,4.4,,11.8,6,,L,na,na,G,na,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P10,PIPO,238,35.5,7.2,,27.2,10,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P11,PIPO,240,33.5,15.1,,54.7,na,,D2,na,na,D,na,na,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P12,PIPO,258,35.5,7.4,,29.9,10.4,,L,na,na,G,na,0,,20230925,CM
+Lone Pine,20230906,2023,622,"CC, NS, CM",0.1,ft,in,STS to LTR,P13,PIPO,271,34.5,10.4,,27,na,,D3,na,na,D,na,na,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,964,PIPO,70,33,4.2,,21.3,10,,L,na,na,G,N,0,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q1,QUGA,77,29,6.3,,26,11.6,,L,na,na,na,na,0,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q2,QUGA,83,23,4.6,,11.3,6,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q3,QUGA,85,22,4.9,,13.6,3.5,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q4,QUGA,89,29,5.1,,15.5,4.5,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q5,QUGA,131,31.5,5.1,,20.9,7.9,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q6,QUGA,133,29.5,4.9,,16.4,7,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q7,QUGA,134,30,4.6,,10.9,7.3,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q8,QUGA,135,31,5.5,,19.5,6.4,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q9,QUGA,143,32.5,5.6,,25,4.4,,L,na,na,na,na,0,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q10,QUGA,144,34.5,5.8,,9.3,4.5,,L,na,na,na,na,0,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,P2,PIPO,251,33.5,18.5,,69.9,18.3,,L,na,na,G,D,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,P3,PIPO,269,33.5,6.7,,44,12.9,,L,na,na,G,M,0,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q11,QUGA,293,27,4.1,,6.5,5.2,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q12,QUGA,296,30,4.4,,14.5,5.7,,L,na,na,na,na,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,P4,PIPO,300,31,8.8,,39.5,10.4,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,P5,PIPO,302,29,12.1,,50.2,9,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q13,QUGA,313,33.5,4.8,,7.2,na,,D3,na,na,na,na,na,,20230925,CM
+Lone Pine,20230906,2023,621,"CC, NS, CM",0.1,ft,in,STS to LTR,Q14,QUGA,325,24.5,5.7,,6.6,3.3,,L,na,na,na,na,1,broken top,20230925,CM
+Lone Pine,20230906,2023,625,"CC, NS, CM",0.1,ft,in,STS to LTR,A1,POTR5,68,27,8.2,,37.1,na,,D2,na,na,G,na,0,,20230925,CM
+Lone Pine,20230906,2023,625,"CC, NS, CM",0.1,ft,in,STS to LTR,965,PIPO,123,26.5,14.1,,55,12.1,,L,na,na,G,D,0,,20230925,CM
+Lone Pine,20230907,2023,272,"CC, NS",0.1,ft,in,STS to LTR,Q1,QUGA,1,15.5,5.6,,23.7,5.9,,L,na,na,G,na,1,dead top,20230925,CM
+Lone Pine,20230907,2023,272,"CC, NS",0.1,ft,in,STS to LTR,P1,PIPO,123,27,18.7,,74.6,na,,D1,na,na,G,na,1,,20230925,CM
+Lone Pine,20230907,2023,272,"CC, NS",0.1,ft,in,STS to LTR,960,PIPO,141,15.5,4.9,,19,6.8,,L,na,na,G,N,1,MT,20230925,CM
+Lone Pine,20230907,2023,272,"CC, NS",0.1,ft,in,STS to LTR,P3,PIPO,154,25,6.7,,22.7,8.6,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230907,2023,272,"CC, NS",0.1,ft,in,STS to LTR,P4,PIPO,271,11,18.1,,80.9,27.3,,L,na,na,G,M,1,,20230925,CM
+Lone Pine,20230907,2023,275,"CC, NS",0.1,ft,in,STS to LTR,937,PIPO,49,26.5,14.8,,54.4,31.2,,L,2,na,G,S,1,bark peeling,20230925,CM
+Lone Pine,20230907,2023,275,"CC, NS",0.1,ft,in,STS to LTR,P2,PIPO,142,35.5,23.4,,85.4,36.6,,L,5,na,G,D,0,,20230925,CM
+Lone Pine,20230907,2023,275,"CC, NS",0.1,ft,in,STS to LTR,P3,PIPO,346,9.5,4.3,,15.4,4.1,,L,na,na,G,N,1,,20230925,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,961,PIPO,7,16,15,,67.4,15.2,,L,na,na,G,N,0,MT,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P2,PIPO,30,29.5,14.5,,68.9,45.9,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P3,PIPO,41,24.5,16.4,,71.4,28.4,,L,na,na,G,S,0,MT,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P4,PIPO,138,26.5,15.5,,66,20.8,,L,na,na,G,N,1,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P5,PIPO,189,17.5,7.6,,42.3,17.8,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P6,PIPO,201,33.5,14.6,,63.6,19.7,,L,na,na,G,M,1,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P7,PIPO,293,32,8,,54.1,26.4,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P8,PIPO,321,29.5,15.8,,67,19.5,,L,na,na,G,S,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P9,PIPO,346,23,6.5,,40.1,18.4,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P10,PIPO,353,26.5,8.7,,58,20.9,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230906,2023,257,"CC, NS",0.1,ft,in,STS to LTR,P11,PIPO,358,32.5,8.2,,60.2,22.5,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,970,PIPO,1,27.5,21.3,,78.9,32.7,,L,2,na,G,D,0,,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,S1,PIPO,34,23.5,12.3,,na,na,,S,na,na,na,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,S2,PIPO,52,5.5,13,,na,na,,S,na,na,na,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,Q1,QUGA,108,32,5.5,,16.9,9.7,,L,na,na,G,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,S3,PIPO,176,31.5,15.7,,na,na,,S,na,na,na,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,S4,PIPO,188,29.5,5.4,,na,na,,S,na,na,na,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,S5,PIPO,197,31,20.7,,na,na,,S,na,na,na,na,na,cut stump,20230926,CM
+Lone Pine,20230905,2023,89,"CC, CM, NS",0.1,ft,in,STS to LTR,P1,PIPO,305,10.5,26.6,,80.4,28.8,,L,12.3,na,G,D,0,,20230926,CM
+Lone Pine,20230905,2023,88,"CC, CM, NS",0.1,ft,in,STS to LTR,899,PIPO,145,11.5,19,,65.5,19.1,,L,na,na,G,D,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,885,PIPO,7,5,12.4,,65.7,24.2,,L,na,na,G,N,1,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,13,35.5,9.5,,43.7,12.7,,L,1,na,G,S,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,32,16,8,,32.9,10,,L,1,na,G,S,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,140,7.5,25.1,,91.9,17.1,,L,na,na,G,M,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,152,30.5,22.6,,77.3,14.6,,L,na,na,G,M,1,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,224,20.5,19.6,,69.3,13.5,,L,na,na,G,S,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P7,PIPO,274,10,7.3,,28.6,na,,D2,na,na,G,N,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P8,PIPO,281,19,15.5,,64.4,19.2,,L,na,na,G,M,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P9,PIPO,284,14,12.1,,67.1,30.8,,L,na,na,G,M,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P10,PIPO,287,11.5,4.1,,16.8,7.6,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P11,PIPO,334,13,4.6,,11.5,8,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230905,2023,86,"CC, CM, NS",0.1,ft,in,STS to LTR,P12,PIPO,343,19,20.4,,74.5,31.9,,L,na,na,G,M,1,,20230926,CM
+Lone Pine,20230905,2023,87,"CC, CM, NS",0.1,ft,in,STS to LTR,881,PIPO,133,33,15.5,,74.7,40.7,,L,na,na,G,M,1,,20230926,CM
+Lone Pine,20230905,2023,87,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,209,28.5,15.3,,62.7,35.2,,L,na,na,G,M,0,,20230926,CM
+Lone Pine,20230905,2023,87,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,347,22,15.9,,74,29.6,,L,na,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,971,PIPO,35,30,19.9,,64.1,20.8,,L,7.2,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,41,23,22.8,,83.3,26.4,,L,13.3,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,86,28,13.3,,64.4,30,,L,10.9,na,G,M,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,102,18.5,8.7,,39,11.3,,L,3.9,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,109,17.5,24.6,,81.3,32,,L,10.2,na,G,M,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,118,26.5,7.2,,41.5,21,,L,4.5,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P7,PIPO,130,23,5.7,,22.1,15.6,,L,7.2,na,G,N,0,Broken top,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P8,PIPO,194,21,4.8,,24.5,9.5,,L,3.3,na,G,S,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P9,PIPO,202,24,23.1,,81.6,23.8,,L,9.9,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,85,"CC, CM, NS",0.1,ft,in,STS to LTR,P10,PIPO,316,34,21,,79,25.4,,L,14,na,G,S,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,995,PIPO,50,22,19.4,,66.4,21.5,,L,7.4,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,61,27,4,,20.9,14.9,,L,5.7,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,72,31,7.1,,32.1,19.4,,L,5.9,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,92,25.5,6.7,,16.1,na,,D1,5.1,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,98,36.5,5.2,,30.5,24.1,,L,4.7,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,101,34.5,8.4,,39,24.7,,L,4.7,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P7,PIPO,101,30,15.3,,71.6,36,,L,7,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P8,PIPO,107,36,11.5,,56.9,40.1,,L,3.5,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P9,PIPO,116,31,7.5,,49.1,37,,L,4,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P10,PIPO,123,27,6.1,,29.4,17.9,,L,3,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P11,PIPO,127,27,13.8,,64.1,30.8,,L,3.1,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P12,PIPO,184,17.5,10,,30.4,20.5,,L,8.4,na,GPT,N,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P13,PIPO,185,18.5,17.2,,81.9,43.1,,L,14,na,GPT,D,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P14,PIPO,189,27,20.8,,84.4,44.9,,L,12.3,na,GPT,D,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P15,PIPO,192,9.5,12.7,,55.9,30.3,,L,13.1,na,GPT,M,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P16,PIPO,235,16.5,6,,28.8,na,,D3,2,na,D,N,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P17,PIPO,249,13.5,6.9,,39.7,18.4,,L,2,na,G,N,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P18,PIPO,253,26.5,5.2,,29.6,9.5,,L,na,na,G,N,1,,20230926,CM
+Lone Pine,20230904,2023,83,"CC, CM, NS",0.1,ft,in,STS to LTR,P19,PIPO,296,35.5,10.2,,42.7,17,,L,7.5,na,G,D,1,,20230926,CM
+Lone Pine,20230904,2023,84,"CC, CM, NS",0.1,ft,in,STS to LTR,972,PIPO,45,33,4.6,,26.1,6.6,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230904,2023,84,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,62,27,17.7,,48.2,14.4,,L,4,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,84,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,67,29.5,23.2,,70.8,18.7,,L,3.5,na,G,D,0,,20230926,CM
+Lone Pine,20230904,2023,84,"CC, CM, NS",0.1,ft,in,STS to LTR,Q1,QUGA,224,9.5,4.8,,10.3,5.8,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,119,PIPO,7,23,6,,42.8,13.5,,L,na,na,G,S,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,120,PIPO,36,28.5,8.6,,37.3,13.6,,L,na,na,G,S,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,121,PIPO,38,32,13.5,,68.1,29.3,,L,na,na,G,D,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,122,PIPO,43,21,4.4,,38,6.2,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,123,PIPO,48,20,5.9,,36.9,8.4,,L,na,na,G,N,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,124,PIPO,101,27,14.4,,55.1,24.3,,L,na,na,G,S,0,broken top,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,125,PIPO,191,30.5,17.3,,65.4,22.4,,L,15,na,G,D,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,126,PIPO,241,7,14.3,,71.4,36.6,,L,6,na,G,D,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,S1,PIPO,247,14.5,19.2,,73.2,43.8,,L,3.5,na,G,M,0,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,127,PIPO,273,9,12.1,,na,na,,S,na,na,na,na,na,,20230926,CM
+Lone Pine,20230911,2023,260,"CC, CM, NS",0.1,ft,in,STS to LTR,S2,PIPO,302,9,19.3,,na,na,,S,na,na,na,na,na,,20230926,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,113,PIPO,148,8.5,23,,78.1,18.6,,L,7,na,G,M,1,,20230927,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,114,PIPO,151,33,10.6,,59,17.4,,L,8.4,na,G,N,0,,20230927,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,115,PIPO,166,32.5,19.9,,86.8,36.2,,L,5,na,G,D,0,,20230927,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,116,PIPO,182,33,22.9,,80,26.1,,L,9.4,na,G,D,1,,20230927,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,117,PIPO,347,19,22.8,,85.7,31.2,,L,3,na,G,M,0,,20230927,CM
+Lone Pine,20230911,2023,263,"CC, CM, NS",0.1,ft,in,STS to LTR,118,PIPO,358,13.5,22,,82.2,21.2,,L,na,na,G,S,0,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,106,PIPO,24,19.5,19.5,,77.8,31.4,,L,4,na,G,D,0,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,107,PIPO,149,32.5,21.3,,83.4,48.2,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,108,PIPO,202,25.5,5.9,,24.5,10.8,,L,na,na,G,S,1,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,109,QUGA,222,28.5,8.8,,18.6,4.7,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,110,PIPO,223,23.5,5.6,,25.7,19.1,,L,na,na,G,N,1,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,111,QUGA,230,33.5,7.6,,19.2,10.3,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,S1,PIPO,249,20.5,21.1,,na,na,,D4,na,na,na,na,na,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,S2,PIPO,262,25,18.4,,na,na,,D4,na,na,na,na,na,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,112,PIPO,285,27,7.3,,50.9,29.4,,L,5.5,na,G,N,0,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,S3,PIPO,308,12.5,13.6,,na,na,,D4,na,na,na,na,na,,20230927,CM
+Lone Pine,20230911,2023,266,"CC, CM, NS",0.1,ft,in,STS to LTR,S4,PIPO,342,12,15,,na,na,,D4,na,na,na,na,na,,20230927,CM
+Lone Pine,20230911,2023,269,"CC, CM, NS",0.1,ft,in,STS to LTR,101,PIPO,123,35,15.4,,79.7,58,,L,13.2,na,G,M,0,,20230927,CM
+Lone Pine,20230911,2023,269,"CC, CM, NS",0.1,ft,in,STS to LTR,102,PIPO,143,30,17.9,,79.1,49.6,,L,15.7,na,G,M,1,,20230927,CM
+Lone Pine,20230911,2023,269,"CC, CM, NS",0.1,ft,in,STS to LTR,103,PIPO,187,26.5,16.8,,84.8,53.1,,L,12.4,na,G,M,0,,20230927,CM
+Lone Pine,20230911,2023,269,"CC, CM, NS",0.1,ft,in,STS to LTR,104,PIPO,200,36,21.8,,87.2,32.9,,L,14.6,na,G,M,0,,20230927,CM
+Lone Pine,20230911,2023,269,"CC, CM, NS",0.1,ft,in,STS to LTR,105,PIPO,314,35.5,27.6,,91.5,32,,L,na,na,G,M,0,,20230927,CM
+Lone Pine,20230912,2023,618,"CC, CM, NS",0.1,ft,in,STS to LTR,958,PIPO,69,32,17.4,,56.4,21.9,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230912,2023,618,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,242,35.5,16,,75.5,27.6,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230912,2023,618,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,246,33,22.8,,77.8,26.8,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230912,2023,618,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,259,21.5,13.3,,45.9,14.8,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,935,PIPO,28,25,9.4,,34.6,3.2,,L,na,na,GPT,D,0,Pitch tubes,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,28,25.5,5.3,,17.1,6.8,,L,na,na,GPT,D,0,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,55,28,19.8,,13.8,na,,D4,13.8,na,na,na,na,burnt stump; crazy lookin,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,133,13.5,15.8,,47.2,13.6,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,146,14,8.9,,37.7,11.3,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,149,31.5,9.1,,21.2,9.7,,L,na,na,G,N,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P7,PIPO,150,33.5,17.7,,66.7,21,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,Q1,QUGA,199,14.5,4.9,,7.2,3.8,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,Q2,QUGA,212,14,4,,7.5,5.8,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,Q3,QUGA,218,13.5,4.9,,9.6,5.2,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230912,2023,624,"CC, CM, NS",0.1,ft,in,STS to LTR,P8,PIPO,336,24,28.3,,59.3,na,,D1,na,na,D,na,1,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P1,PIPO,38,27.5,18,,59.6,na,,D2,na,na,D,N,na,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,46,15,18.5,,55.9,na,,D2,na,na,D,N,na,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,936,PIPO,53,18,4.4,,15.2,3.7,,L,na,na,GPT,N,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,Q1,QUGA,102,30,4.1,,9.7,5.3,,L,na,na,GPT,na,1,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,207,28,15.2,,58.7,22.2,,L,na,na,GPT,D,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,212,29.5,4.9,,54.8,23.3,,L,na,na,GPT,D,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,225,12.5,5.7,,27.2,4.3,,L,na,na,GPT,N,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P7,PIPO,315,31.5,16.3,,51.8,15.1,,L,na,na,GPT,D,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P8,PIPO,318,35,4.5,,9.8,7.7,,L,na,na,GPT,N,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P9,PIPO,319,33,5.8,,24.8,16.3,,L,na,na,GPT,N,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P10,PIPO,324,36.5,5.3,,12.3,9.6,,L,na,na,GPT,N,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P11,PIPO,327,34.5,7.1,,28.6,14.9,,L,na,na,GPT,S,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P12,PIPO,328,32.5,5.4,,23.3,15.7,,L,na,na,GPT,S,0,,20230927,CM
+Lone Pine,20230912,2023,628,"CC, CM, NS",0.1,ft,in,STS to LTR,P13,PIPO,339,29,15.3,,4.3,22.5,,L,na,na,GPT,D,0,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,P1,PIPO,84,25.5,21.1,,64.3,na,,D2,na,na,D,na,na,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,157,3,10.3,,34.7,na,,D2,na,na,D,na,na,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,A1,POTR5,190,35,5.1,,18.4,na,,D4,na,na,na,na,na,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,959,PIPO,198,35,9.9,,44.9,14.9,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q1,QUGA,225,28,4.1,,6.4,3.5,,L,na,na,G,na,1,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q2,QUGA,226,33,6.3,,27,6.2,,L,na,na,G,na,1,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q3,QUGA,227,15.5,4,,12.1,4.7,,L,na,na,G,na,1,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q4,QUGA,231,32,5.9,,23.6,5.6,,L,na,na,G,na,1,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q5,QUGA,233,34.5,5,,8.8,na,,D1,na,na,G,na,na,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,Q6,QUGA,236,33,5.2,,15.2,4.6,,L,na,na,G,na,0,,20230927,CM
+Lone Pine,20230912,2023,620,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,244,21.5,20.9,,67.5,25.8,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,21,POTR5,23,28,5.6,,29.8,11.8,,L,na,na,na,na,0,"spray painted w ""21"" in orange",20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A2,POTR5,36,26.5,6,,34.3,16.2,,L,na,na,na,na,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A3,POTR5,37,35.5,4.9,,26.9,na,,D1,na,na,na,na,na,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A4,POTR5,43,26,4.8,,33.7,17.5,,L,na,na,na,na,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A5,POTR5,65,22,5,,35.1,23.2,,L,na,na,na,na,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A6,POTR5,82,22,5.3,,31.6,17.2,,L,na,na,na,na,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,A7,POTR5,83,24.5,5.4,,29.5,18.8,,L,na,na,na,na,0,,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P1,PIPO,145,28.5,24,,70.4,na,,D1,na,na,D,N,na,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,185,14,21,,80.9,na,,D1,na,na,D,N,na,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,244,28.5,16,,66,na,,D1,na,na,G,N,na,dead but no pitch tubes,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,249,21.5,16.2,,70,na,,D1,na,na,D,N,na,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P5,PIPO,256,33.5,10.8,,59.9,na,,D1,na,na,D,N,na,pitch tubes,20230927,CM
+Lone Pine,20230912,2023,626,"CC, CM, NS",0.1,ft,in,STS to LTR,P6,PIPO,333,26.5,17.6,,75.6,na,,D1,na,na,D,N,na,pitch tubes,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,994,PIPO,12,27.5,19,,67.3,30.3,,L,na,na,G,D,0,,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A1,POTR5,18,18,4.9,,33.1,14.1,,L,na,na,na,na,1,,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,P2,PIPO,56,11.5,19.1,,59.1,30.1,,L,na,na,G,D,1,,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,P3,PIPO,95,13,12.4,,36,8.6,,L,na,na,G,S,0,,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,P4,PIPO,136,36.5,10.2,,42.3,7.2,,L,na,na,G,S,0,,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A2,POTR5,138,8,9.2,,30.3,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A3,POTR6,145,34.5,9.1,,36.6,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A4,POTR7,148,36.5,5.9,,29,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A5,POTR8,247,30,8,,33.1,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A6,POTR9,257,32,8.9,,35.8,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A7,POTR10,268,34,8.4,,13.1,na,,D4,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A8,POTR11,285,31,11.2,,46.9,na,,D1,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A9,POTR12,288,22.5,11.4,,40.5,na,,D1,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A10,POTR13,298,20,9.9,,45.7,na,,D2,na,na,na,na,na,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A11,POTR14,306,24,13.3,,47.5,35.2,,L,na,na,na,na,0,bark falling off,20230927,CM
+Lone Pine,20230911,2023,629,"CC, CM, NS",0.1,ft,in,STS to LTR,A12,POTR15,335,28,4.8,,25.1,15.3,,L,na,na,na,na,0,bark falling off,20230927,CM

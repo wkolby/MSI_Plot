@@ -1,0 +1,65 @@
+﻿Project Name,DateSampled,Year,Plot,Area,Unit,Lon,Lat,BEST Treatment,Treatment,Monitoring Unit,Crew,Surveyors,Plot Notes,Transect Azimuth,Hillslope Aspect,Slope
+Lone Pine,20230612,2023,1,Plantation,Plantation 1,-108.702491,37.813138,NO,pre,na,"BA,NS,JL",na,"plot has not been treated, N tree tagged with 1, transect runs north to south",320,320,5
+Lone Pine,20230612,2023,2,Plantation,Plantation,-108.702438,37.814021,NO,pre,na,"EM,CC,CM,AC",na,most aspen have some degree of rot,69,69,1
+Lone Pine,20230613,2023,3,Plantation,Wolfden,-108.702016,37.813678,NO,pre,na,"JL, NS, BA",na,"plot reestablished, transect N-S",360,44,1
+Lone Pine,20230613,2023,4,Plantation,plantation-wolfden,-108.6997,37.815953,NO,pre,na,Bender,na,na,50,50,2
+Lone Pine ,20230613,2023,5,Plantation,plantation-wolfden,-108.698623,37.814243,NO,pre,na,Bender,na,na,40,40,2
+Lone Pine ,20230613,2023,6,Plantation,Wolfden ,-108.699946,37.814512,NO,pre,na,"JL, NS, BA",na,na,352,352,1
+Lone Pine,20230612,2023,7,Plantation,Plantation,-108.700937,37.813322,NO,pre,na,Bender; Beans,na,this ones crazy,360,360,2
+Lone Pine,20230613,2023,8,Plantation,Wolfden,-108.701161,37.81485,NO,pre,na,Bender,na,na,10,10,3
+Lone Pine ,20230614,2023,91,CT,Wolfden ,-108.7124,37.817638,NO,post,na,Bender; Beans,na,na,358,358,1
+Lone Pine ,20230614,2023,92,CT,Wolfden ,-108.712121,37.816292,NO,post,na,Bender; Beans,na,na,360,30,1
+Lone Pine ,20230615,2023,95,CT,Wolfden ,-108.712716,37.818818,NO,post,na,Bender; Beans,na,na,360,na,2
+Lone Pine,20230615,2023,97,CT,Wolfden,-108.714257,37.2025,NO,post,na,Bender; Beans,na,na,265,na,2
+Lone Pine ,20230619,2023,99,Oak Reduction,Wolfden ,-108.7087578,37.816583,NO,post,na,Bender; Beans,na,"Some older stumps from past cuts in area, cones are in early development",20,20,2
+Lone Pine,20230619,2023,100,Oak Reduction,Wolfden,-108.709075,37.8182,NO,pre,na,Bender; Beans,na,"plot had to be reestablished slightly south, transeccct is north-south, subtract 9 degrees from all azmiths",360,325,2
+Lone Pine ,20230619,2023,101,Oak Reduction,Wolfden ,-108.709494,37.82072,NO,pre,na,Bender; Beans,na,cones in early development,90,90,9
+Lone Pine ,20230621,2023,133,Oak Reduction,Glade,-108.6278,37.740598,NO,pre,na,Bender; Beans,na,na,58,na,0
+Lone Pine,20230621,2023,135,Oak Reduction,Glade,-108.62543,37.795654,NO,post,na,Bender; Beans,na,na,97,na,7
+Lone Pine ,20230622,2023,136,Oak Reduction,Glade,-108.622871,37.794616,NO,post,na,Bender; Beans,na,na,145,145,3
+Lone Pine ,20230622,2023,137,Oak Reduction,Glade,-108.6251,37.794084,NO,post,na,Bender; Beans,na,na,326,326,2
+Lone Pine ,20230613,2023,154,CT,Commercialthin,-108.698748,37.807609,NO,post,na,Bender; Beans,na,na,62,62,2
+Lone Pine,20230614,2023,155,CT,Wolfden,-108.701361,37.808293,NO,post,na,Bender; Beans,na,na,251,na,1
+Lone Pine,20230614,2023,156,CT,Wolfden,-108.703101,37.808487,NO,post,na,Bender,na,No data found from 2020. Re established plot with a North to South transect,360,280,4
+Lone Pine ,20230614,2023,158,CT,Wolfden,-108.706644,37.809127,NO,post,na,Bender; Beans,na,na,360,166,2
+Lone Pine ,20230614,2023,159,CT,Wolfden ,-108.713157,37.810243,NO,post,na,Bender; Beans,na,na,0,202,3
+Lone Pine ,20230614,2023,160,CT,Wolfden ,-108.709961,37.809209,NO,post,na,Bender,na,rebar is .5m S of plot center due to rock,360,185,5
+Lone Pine,20230619,2023,228,<Null>,Wolfden ,-108.6953,37.822146,NO,post,na,Bender; Beans,na,na,347,347,2
+Lone Pine ,20230620,2023,230,Oak Reduction,Wolfden,-108.693,37.821849,NO,pre,na,Bender; Beans,na,na,360,360,2
+Lone Pine,20230620,2023,231,<Null>,Wolfden,-108.6937,37.823793,NO,pre,na,bender; Beans,na,na,58,58,2
+Lone Pine ,20230620,2023,500,Plantation,Wolfden,-108.692,37.810393,NO,pre,na,Bender; Beans,na,,,,
+Lone Pine ,20230620,2023,501,Plantation,Wolfden ,-108.69015,37.81,NO,pre,na,"BA,NS,EM",na,na,330,330,5
+Lone Pine,20230621,2023,502,Plantation,Wolfden ,-108.68799,37.81141,NO,pre,na,Bender; Beans,na,na,312,312,2
+lone Pine,20230620,2023,503,Plantation,Wolfden,-108.6875,37.810434,NO,pre,na,Bender; Beans,na,na,360,360,3
+lone Pine,20230621,2023,504,Plantation,wolfden,-108.685448,37.809727,NO,pre,na,Bender; Beans,na,na,338,338,3
+Lone Pine,20230621,2023,505,Plantation,wolfden,-108.68615,37.811012,NO,pre,na,bender; Beans,na,plot had to be moved slighlty westt due to fence and road,345,345,2
+lone Pine,20230621,2023,506,Plantation,wolfden,-108.684181,37.810541,NO,pre,na,bender; Beans,na,na,300,300,1
+Lone Pine,20230620,2023,507,Plantation,Wolfden ,-108.691888,37.811695,NO,pre,na,Bender; Beans,na,na,330,330,4.7
+Lone Pine ,20230905,2023,616,STS to LTR,Karl,-108.38247,37.45016,NO,pre,na,"CC, CM, NS",na,na,90,209,3
+Lone Pine ,20230905,2023,619,STS to LTR,Karl,-108.38144,37.44564,NO,pre,na,"CC, CM, NS",na,some old stumps,90,264,3
+Lone Pine ,20230905,2023,627,STS to LTR,Karl,-108.639437,37.748522,NO,pre,na,"CC, CM, NS",na,Established transect E to W,90,90,1
+Lone Pine ,20230906,2023,617,STS to LTR,Karl,-108.633264,37.752375,NO,pre,na,"CC, CM, NS",na,na,90,356,1
+Lone Pine ,20230906,2023,623,STS to LTR,Karl,-108.3742,37.45017,NO,pre,na,"CC, CM, NS",na,na,90,356,3
+Lone Pine ,20230906,2023,622,STS to LTR,Karl,-108.633316,37.750095,NO,pre,na,"CC, CM, NS",na,na,90,285,1.5
+Lone Pine ,20230906,2023,621,STS to LTR,Karl,-108.37464,37.44554,NO,pre,na,"CC, CM, NS",na,plot center adjacent to cattle trail,90,253,3.2
+Lone Pine ,20230906,2023,625,STS to LTR,Karl,-108.63086,37.751193,NO,pre,na,"CC, CM, NS",na,Dead/dying pipo around plot,90,330,1
+Lone Pine ,20230907,2023,272,STS to LTR,Bradfield,-108.671854,37.705895,NO,post,na,"CC, NS",na,lots of oak,115,115,2
+Lone Pine ,20230907,2023,275,STS to LTR,Bradfield,-108.673097,37.706283,NO,post,na,"CC, NS",na,na,303,303,3.5
+Lone Pine ,20230906,2023,257,STS to LTR,Bradfield,-108.672955,37.700857,NO,post,na,"CC, NS",na,re-established plot E-W (rebar no found),90,252,2
+Lone Pine ,20230905,2023,89,STS to LTR,Bradfield,-108.3915,37.43385,NO,post,na,"CC, CM, NS",na,na,264,264,2
+Lone Pine ,20230905,2023,88,STS to LTR,Bradfield,-108.39281,37.43448,NO,post,na,"CC, CM, NS",na,na,258,258,2
+Lone Pine ,20230905,2023,86,STS to LTR,Bradfield,-108.656878,37.73279,NO,post,na,"CC, CM, NS",na,na,154,154,3
+Lone Pine ,20230905,2023,87,STS to LTR,Bradfield,-108.39162,37.43511,NO,post,na,"CC, CM, NS",na,"old logging road to E of PC, Slash pile just W of PC on plot",185,185,2.5
+Lone Pine ,20230904,2023,85,STS to LTR,Bradfield,-108.653969,37.734282,NO,post,na,"CC, CM, NS",na,na,162,162,4
+Lone Pine ,20230904,2023,83,STS to LTR,Bradfield,-108.39147,37.44159,NO,post,na,"CC, CM, NS",na,na,198,198,3
+Lone Pine ,20230904,2023,84,STS to LTR,Bradfield,-108.39231,37.44095,NO,post,na,"CC, CM, NS",na,na,184,184,4.6
+Lone Pine ,20230911,2023,260,STS to LTR,Bradfield,-108.669681,37.703452,NO,post,na,"CC, CM, NS",na,"Slash piles to N and E of plot, wasps near PC",280,280,3
+Lone Pine ,20230911,2023,263,STS to LTR,Bradfield,-108.668421,37.706745,NO,post,na,"CC, CM, NS",na,slash piles partially on E side of plot ,190,190,2
+Lone Pine,20230911,2023,266,STS to LTR,Bradfield,-108.669597,37.705841,NO,post,na,"CC, CM, NS",na,"No AZ from pre, Went E to W",90,130,3
+Lone Pine,20230911,2023,269,STS to LTR,Bradfield,-108.670935,37.706443,NO,post,na,"CC, CM, NS",na,na,41,41,1.5
+Lone Pine,20230912,2023,618,STS to LTR,Karl,-108.634514,37.747799,NO,pre,na,"CC,CM,NS",na,na,90,208,2
+Lone Pine,20230912,2023,624,STS to LTR,Karl,-108.632202,37.74547,NO,pre,na,"CC, CM, NS",na,VERY COOL TREES!,90,193,3
+Lone Pine,20230912,2023,628,STS to LTR,Karl,-108.634771,37.745509,NO,pre,na,"CC, CM, NS",na,na,90,297,4
+Lone Pine,20230912,2023,620,STS to LTR,Karl,-108.63753,37.746243,NO,pre,na,"cc, CM, NS",na,na,90,253,1.8
+Lone Pine,20230912,2023,626,STS to LTR,Karl,-108.640627,37.744945,NO,pre,na,"CC, CM, NS",na,na,90,165,2.1
+lone Pine,20230911,2023,629,STS to LTR,Karl,-108.643507,37.746624,NO,pre,na,"CC, CM, NS",na,na,90,236,4
