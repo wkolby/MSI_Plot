@@ -1,5 +1,6 @@
-###Lonepine analysis folder###
-setwd("/Users/wksmith/Documents/GitHub/MSI_Plot")
+#Define working directory
+wdir<-"/Users/wksmith/Documents/GitHub/MSI_Plot/"
+setwd(wdir)
 
 #Packages####################################################################
 library(tidyverse)
@@ -8,7 +9,7 @@ library(RColorBrewer)
 
 ##########################################################################################################
 #Read Salter
-salter2023 = read_csv("CSV2023_forR/Salter_2023_overstory_clean.csv")
+salter2023 = read_csv(paste(wdir,"CSV2023_forR/Salter_2023_overstory_clean.csv",sep=''))
 salter_PIPO_2023=subset(salter2023, Species=="PIPO")
 #All Species
 ggplot(salter2023, aes(x = DBH, fill = Species)) +
@@ -21,7 +22,7 @@ ggplot(salter2023, aes(x = DBH, fill = Species)) +
   theme(legend.text=element_text(size=20),legend.title=element_text(size=24)) +
   theme(legend.background = element_rect(linetype="solid", colour ="black"))+
   theme(text = element_text(size = 24))
-ggsave(paste('Figures/Salter/Salter_DBH_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_DBH_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 #PIPO
 ggplot(salter_PIPO_2023, aes(x = floor(DBH),fill=DIA_CLASS)) +
@@ -34,7 +35,7 @@ ggplot(salter_PIPO_2023, aes(x = floor(DBH),fill=DIA_CLASS)) +
   theme(legend.position = c(.15,.8),legend.text=element_text(size=20),legend.title=element_text(size=24)) +
   theme(legend.background = element_rect(linetype="solid", colour ="black"))+
   theme(text = element_text(size = 24))
-ggsave(paste('Figures/Salter/Salter_PIPO_DBH_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 ggplot(salter_PIPO_2023, aes(x = DBH)) +
   geom_histogram(alpha=0.5, color='black',binwidth=1, position="identity") +
@@ -47,7 +48,7 @@ ggplot(salter_PIPO_2023, aes(x = DBH)) +
   theme(legend.position = c(.8,.8),legend.text=element_text(size=20),legend.title=element_text(size=24)) +
   theme(legend.background = element_rect(linetype="solid", colour ="black"))+
   theme(text = element_text(size = 24))
-ggsave(paste('Figures/Salter/Salter_PIPO_DBH_2023_byUnit.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_2023_byUnit.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 #Summarize Beetle
 salter_PIPO_Beetle_2023=subset(salter_PIPO_2023, !is.na(Beetle))
@@ -62,7 +63,7 @@ ggplot(salter_PIPO_Beetle_2023, aes(x = floor(DBH), fill=Beetle2)) +
   theme(legend.position = c(.15,.8),legend.text=element_text(size=20),legend.title=element_text(size=24)) +
   theme(legend.background = element_rect(linetype="solid", colour ="black"))+
   theme(text = element_text(size = 24))
-ggsave(paste('Figures/Salter/Salter_PIPO_DBH_Beetle_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_Beetle_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 #Summarize BA
 salter_BA = salter_PIPO_2023 %>% group_by(Plot) %>% 
@@ -83,7 +84,7 @@ ggplot(salter_BA, aes(x = BA,fill=Cat2)) +
   theme(legend.position = c(.8,.8),legend.text=element_text(size=20),legend.title=element_text(size=24)) +
   theme(legend.background = element_rect(linetype="solid", colour ="black"))+
   theme(text = element_text(size = 24))
-ggsave(paste('Figures/Salter/Salter_PIPO_BA_2023_byPlot.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_BA_2023_byPlot.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 #Summarize Percent BA by Plot
 salter_PIPO_A = subset(salter_PIPO_2023, DIA_CLASS == 'A')
@@ -117,7 +118,7 @@ ggplot(salter_Stat_All, aes(x = Cat, y = PER_BA_sum*100)) +
   scale_x_discrete(labels=c('< 12','12 to 16', '16 to 20','20 to 25','25 to 27','> 27'),guide = guide_axis(angle = 45))+
   theme_bw() +
   theme(text = element_text(size = 20))
-ggsave(paste('Figures/Salter/Salter_PIPO_BApercent_DBHClasses_2023.png',sep=''),dpi=300,width=400,height=300,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_BApercent_DBHClasses_2023.png',sep=''),dpi=300,width=400,height=300,units='mm')
 
 #Summarize DBH Class by Unit
 salter_Stat_A = salter_PIPO_A %>% group_by(Unit) %>% 
@@ -147,7 +148,7 @@ ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = N)) +
   scale_fill_manual(values=c('red','orange','yellow','green','blue','purple'),labels=c('< 12 inch', '12-16 inch', '16-20 inch','20-25 inch','25-27 inch','> 27 inch'))+
   theme_bw() +
   theme(text = element_text(size = 20))
-ggsave(paste('Figures/Salter/Salter_PIPO_Trees_byClass_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_Trees_byClass_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
 
 #Summarize Age
 salterTable2023 = read_csv("CSV2023_forR/SALTER_2023_OVERSTORY_TABLE.csv")
@@ -182,7 +183,7 @@ ggplot(salterStat_long, aes(x = Index, y = Age)) +
   scale_x_discrete(labels=c('12 to 16 inch', '16 to 20 inch', '> 20 inch'),guide = guide_axis(angle = 45))+
   theme_bw() +
   theme(text = element_text(size = 20))
-ggsave(paste('Figures/Salter/Salter_PIPO_DBH_Age_Classes_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_Age_Classes_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
 
 ggplot(salterStat_long, aes(x=DBH, y=Age)) +
   geom_point(size=3)+
@@ -192,6 +193,28 @@ ggplot(salterStat_long, aes(x=DBH, y=Age)) +
   theme_bw()+
   theme(legend.position = c(0.8, 0.2),legend.title = element_blank(),legend.text=element_text(size=16)) +
   theme(text = element_text(size = 20))
-ggsave(paste('Figures/Salter/Salter_PIPO_DBH_Age_Regression_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_Age_Regression_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+################################################################################
+#Read Salter
+salter2023_Quadrats = read_csv(paste(wdir,"CSV2023_forR/05_Salter_Quadrats_2023.csv",sep=''))
+
+#Summarize DBH Class by Unit
+salter_Stat_1hr = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='hr1',N=n(),SizeClass_mean = mean(hr1,na.rm=T))
+salter_Stat_10hr = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='hr10',N=n(),SizeClass_mean = mean(hr10,na.rm=T))
+salter_Stat_100hr = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='hr100',N=n(),SizeClass_mean = mean(hr100,na.rm=T))
+#Combine
+salter_Stat_All <- rbind(salter_Stat_1hr,salter_Stat_10hr,salter_Stat_100hr)
+ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = SizeClass_mean)) +
+  geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
+  labs(y = "Tons / acre", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,1),breaks=c(0,1,2,3)) +
+  #scale_x_discrete(labels=c('< 12','12 to 16', '16 to 20','20 to 25','25 to 27','> 27'),guide = guide_axis(angle = 45))+
+  scale_fill_manual(values=c('yellow3','orange3','red3'),labels=c('1 hour', '10 hour', '100 hour'))+
+  theme_bw() +
+  theme(text = element_text(size = 20))
+ggsave(paste(wdir,'Figures/Salter/Salter_SizeClass_byUnit_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
 
 
