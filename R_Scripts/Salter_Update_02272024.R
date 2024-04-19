@@ -196,6 +196,37 @@ ggplot(salterStat_long, aes(x=DBH, y=Age)) +
   theme(legend.position = c(0.8, 0.2),legend.title = element_blank(),legend.text=element_text(size=16)) +
   theme(text = element_text(size = 20))
 ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_Age_Regression_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
+
+################################################################################
+#Read Salter
+salter2023_Canopy = read_csv(paste(wdir,"CSV2023_forR/03_Salter_Canopy_2023.csv",sep=''))
+salter2023_Canopy=subset(salter2023_Canopy, !is.na(Species))
+#Summarize Species by Unit
+salter_Canopy_All = salter2023_Canopy %>% group_by(Plot,Species) %>% 
+  summarise(N=n(),Cover = sum(Interval/30,na.rm=T))
+Unit=c("2","2","2","2","7","7","7","7","6","6","6","6",
+       "1","1","1","3","3","3","5","5","5","4","4","4",
+       "4","8","8","8","9","9","9","9","9","9","10",
+       "10","10","10","PFA","PFA","PFA","PFA","PFA","PFA",
+       "PFA","PFA","PFA")
+salter_Canopy_All2 =cbind(salter_Canopy_All,Unit)
+colnames(salter_Canopy_All2)=c("Plot","Species","N","Cover","Unit")
+salter_Canopy_All3 = salter_Canopy_All2 %>% group_by(Unit,Species) %>% 
+  summarise(N=n(),Cover = mean(Cover,na.rm=T))
+
+#Combine
+salter_Canopy_All3$Species <- factor(salter_Canopy_All3$Species,levels=c("QUGA","PIPO"))
+salter_Canopy_All3$Unit <- factor(salter_Canopy_All3$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
+ggplot(salter_Canopy_All3, aes(fill = Species, x = Unit, y = Cover)) +
+  geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
+  labs(y = "Fractional Cover", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,0.7),breaks=c(0.0,0.15,0.3,0.45,0.6,0.75)) +
+  scale_fill_manual(name='Species', values=c('orangered2','green3'),
+                    labels=c("QUGA","PIPO"))+
+  theme_bw() +
+  theme(text = element_text(size = 20))
+ggsave(paste(wdir,'Figures/Salter/Salter_Canopy_byUnit_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
+
 ################################################################################
 #Read Salter
 salter2023_Shrubs = read_csv(paste(wdir,"CSV2023_forR/04_Salter_Shrub_2023.csv",sep=''))
