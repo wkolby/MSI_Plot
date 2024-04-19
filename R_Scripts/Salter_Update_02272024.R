@@ -6,6 +6,7 @@ setwd(wdir)
 library(tidyverse)
 library(ggpubr)
 library(RColorBrewer)
+library(forcats)
 
 ##########################################################################################################
 #Read Salter
@@ -140,12 +141,13 @@ salter_Stat_F = salter_PIPO_F %>% group_by(Unit) %>%
   summarise(Cat='F',N=n(),DBH_mean = mean(DBH,na.rm=T),BA_sum = mean(PLOT_BA,na.rm=T))
 #Combine
 salter_Stat_All <- rbind(salter_Stat_A,salter_Stat_B,salter_Stat_C,salter_Stat_D,salter_Stat_E,salter_Stat_F)
+salter_Stat_All$Unit <- factor(salter_Stat_All$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
 ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = N)) +
   geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
   labs(y = "Number of Trees", x = "Unit")+
   scale_y_continuous(expand = c(0, 0),limits = c(0,50),breaks=c(0,10,20,30,40,50)) +
   #scale_x_discrete(labels=c('< 12','12 to 16', '16 to 20','20 to 25','25 to 27','> 27'),guide = guide_axis(angle = 45))+
-  scale_fill_manual(values=c('red','orange','yellow','green','blue','purple'),labels=c('< 12 inch', '12-16 inch', '16-20 inch','20-25 inch','25-27 inch','> 27 inch'))+
+  scale_fill_manual(name="Size Class",values=c('red','orange','yellow','green','blue','purple'),labels=c('< 12 inch', '12-16 inch', '16-20 inch','20-25 inch','25-27 inch','> 27 inch'))+
   theme_bw() +
   theme(text = element_text(size = 20))
 ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_Trees_byClass_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
@@ -196,9 +198,34 @@ ggplot(salterStat_long, aes(x=DBH, y=Age)) +
 ggsave(paste(wdir,'Figures/Salter/Salter_PIPO_DBH_Age_Regression_2023.png',sep=''),dpi=300,width=250,height=200,units='mm')
 ################################################################################
 #Read Salter
+salter2023_Shrubs = read_csv(paste(wdir,"CSV2023_forR/04_Salter_Shrub_2023.csv",sep=''))
+
+#Summarize Species by Unit
+salter_Shrubs_All = salter2023_Shrubs %>% group_by(Plot,Unit,Species) %>% 
+  summarise(N=n(),Cover = sum(Length_m/30,na.rm=T))
+
+salter_Shrubs_All2 = salter_Shrubs_All %>% group_by(Unit,Species) %>% 
+  summarise(N=n(),Cover = mean(Cover,na.rm=T))
+
+
+#Combine
+salter_Shrubs_All2$Species <- factor(salter_Shrubs_All2$Species,levels=c("AMAL2","SYRO","ROWO","QUGA"))
+salter_Shrubs_All2$Unit <- factor(salter_Shrubs_All2$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
+ggplot(salter_Shrubs_All2, aes(fill = Species, x = Unit, y = Cover)) +
+  geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
+  labs(y = "Fractional Cover", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,0.6),breaks=c(0,.15,.3,.45,.6)) +
+  scale_fill_manual(name='Species', values=c('cyan3','orangered1','purple2','chartreuse3'),
+                    labels=c("AMAL2","SYRO","ROWO","QUGA"))+
+  theme_bw() +
+  theme(text = element_text(size = 20))
+ggsave(paste(wdir,'Figures/Salter/Salter_ShrubCover_byUnit_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
+
+################################################################################
+#Read Salter
 salter2023_Quadrats = read_csv(paste(wdir,"CSV2023_forR/05_Salter_Quadrats_2023.csv",sep=''))
 
-#Summarize DBH Class by Unit
+#Summarize Size Class by Unit
 salter_Stat_1hr = salter2023_Quadrats %>% group_by(Unit) %>% 
   summarise(Cat='hr1',N=n(),SizeClass_mean = mean(hr1,na.rm=T))
 salter_Stat_10hr = salter2023_Quadrats %>% group_by(Unit) %>% 
@@ -207,14 +234,66 @@ salter_Stat_100hr = salter2023_Quadrats %>% group_by(Unit) %>%
   summarise(Cat='hr100',N=n(),SizeClass_mean = mean(hr100,na.rm=T))
 #Combine
 salter_Stat_All <- rbind(salter_Stat_1hr,salter_Stat_10hr,salter_Stat_100hr)
+salter_Stat_All$Unit <- factor(salter_Stat_All$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
 ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = SizeClass_mean)) +
   geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
-  labs(y = "Tons / acre", x = "Unit")+
-  scale_y_continuous(expand = c(0, 0),limits = c(0,1),breaks=c(0,1,2,3)) +
-  #scale_x_discrete(labels=c('< 12','12 to 16', '16 to 20','20 to 25','25 to 27','> 27'),guide = guide_axis(angle = 45))+
-  scale_fill_manual(values=c('yellow3','orange3','red3'),labels=c('1 hour', '10 hour', '100 hour'))+
+  labs(y = "Fuel (tons / acre)", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,0.6),breaks=c(0,.15,.3,.45,.6)) +
+  scale_fill_manual(name='Size Class', values=c('yellow3','orange3','red3'),labels=c('1 hour', '10 hour', '100 hour'))+
   theme_bw() +
   theme(text = element_text(size = 20))
 ggsave(paste(wdir,'Figures/Salter/Salter_SizeClass_byUnit_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
+
+#Summarize Functional Group by Unit
+salter_Stat_gram = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='gram',N=n(),Func_mean = mean(Graminoids,na.rm=T))
+salter_Stat_forb = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='forb',N=n(),Func_mean = mean(Forbs,na.rm=T))
+salter_Stat_shrub = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='shrub',N=n(),Func_mean = mean(Shrubs,na.rm=T))
+salter_Stat_seed = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='seed',N=n(),Func_mean = mean(Seedlings,na.rm=T))
+#Combine
+salter_Stat_All <- rbind(salter_Stat_gram,salter_Stat_forb,salter_Stat_shrub,salter_Stat_seed)
+salter_Stat_All$Unit <- factor(salter_Stat_All$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
+ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = Func_mean)) +
+  geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
+  labs(y = "Fractional Cover", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,50),breaks=c(0,10,20,30,40,50)) +
+  scale_fill_manual(name='Functional Group', values=c('yellow2','pink2','cyan3','green3'),labels=c('Forbs','Graminoids','Seedlings','Shrubs'))+
+  theme_bw() +
+  theme(text = element_text(size = 20))
+ggsave(paste(wdir,'Figures/Salter/Salter_FuncGroup_byUnit_2023.png',sep=''),dpi=300,width=300,height=200,units='mm')
+
+#Summarize Ground Cover by Unit
+salter_Stat_Bare = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='bare',N=n(),Cov_mean = mean(Bare_Ground,na.rm=T))
+salter_Stat_Litter = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='litter',N=n(),Cov_mean = mean(LitterDuff,na.rm=T))
+salter_Stat_Rock = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='rock',N=n(),Cov_mean = mean(Rock,na.rm=T))
+salter_Stat_Gravel = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='gravel',N=n(),Cov_mean = mean(Gravel,na.rm=T))
+salter_Stat_Lichen = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='lichen',N=n(),Cov_mean = mean(LichenMoss,na.rm=T))
+salter_Stat_Woody = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='basal',N=n(),Cov_mean = mean(Woody_Basal,na.rm=T))
+salter_Stat_Fine = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='fine',N=n(),Cov_mean = mean(FWD,na.rm=T))
+salter_Stat_Coarse = salter2023_Quadrats %>% group_by(Unit) %>% 
+  summarise(Cat='coarse',N=n(),Cov_mean = mean(CWD,na.rm=T))
+#Combine
+salter_Stat_All <- rbind(salter_Stat_Bare,salter_Stat_Rock,salter_Stat_Gravel,salter_Stat_Lichen,salter_Stat_Woody,salter_Stat_Fine,salter_Stat_Coarse,salter_Stat_Litter)
+salter_Stat_All$Cat <- factor(salter_Stat_All$Cat,levels=c("lichen","rock","gravel","bare","basal","fine","coarse","litter"))
+salter_Stat_All$Unit <- factor(salter_Stat_All$Unit,levels=c("1","2","3","4","5","6","7","8","9","10","PFA"))
+ggplot(salter_Stat_All, aes(fill = Cat, x = Unit, y = Cov_mean)) +
+  geom_bar(position="stack", stat="identity",alpha=0.9, color='black') +
+  labs(y = "Fractional Cover", x = "Unit")+
+  scale_y_continuous(expand = c(0, 0),limits = c(0,102),breaks=c(0,20,40,60,80,100,120)) +
+  scale_fill_manual(name='Ground Cover', values=c('magenta','darkgrey','lightgrey','sandybrown','pink1','red2','red4','chartreuse3'),
+                    labels=c("Lichen/Moss","Rock","Gravel","Bareground","Woody Basal","Fine Woody Debris","Coarse Woody Debris","Litter/Duff"))+
+  theme_bw() +
+  theme(text = element_text(size = 20))
+ggsave(paste(wdir,'Figures/Salter/Salter_GroundCover_byUnit_2023.png',sep=''),dpi=300,width=350,height=200,units='mm')
 
 
